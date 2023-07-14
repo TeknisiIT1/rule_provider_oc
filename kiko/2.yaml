@@ -1105,474 +1105,6 @@ proxies:
   headers:
     Host: dl.cacerts.digicert.com
 - name: SGVIP86
-  server: sogood.linefriends.com
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP87
-  server: ava.game.naver.com
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP88
-  server: account.pmang.game.naver.com
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP89
-  server: care.pmang.game.naver.com
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP90
-  server: df.game.naver.com
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP91
-  server: hilfe.spargut.com
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP92
-  server: test.spargut.com
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP93
-  server: www.spargut.com
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP94
-  server: sogood.linefriends.com
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: false
-  udp: false
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP95
-  server: ava.game.naver.com
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: false
-  udp: false
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP96
-  server: account.pmang.game.naver.com
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: false
-  udp: false
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP97
-  server: care.pmang.game.naver.com
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: false
-  udp: false
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP98
-  server: df.game.naver.com
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: false
-  udp: false
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP99
-  server: hilfe.spargut.com
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: false
-  udp: false
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP100
-  server: test.spargut.com
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: false
-  udp: false
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP101
-  server: www.spargut.com
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: false
-  udp: false
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP102
-  server: 172.67.26.118
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP103
-  server: ava.game.naver.com
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP104
-  server: sogood.linefriends.com
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP105
-  server: chat.xl.co.id
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP106
-  server: ciam-derawan.xl.co.id
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP107
-  server: ciam-rajaampat.xl.co.id
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP108
-  server: comet.xl.co.id
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP109
-  server: e-atp.xl.co.id
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP110
-  server: egw.xl.co.id
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP111
-  server: elms.xl.co.id
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP112
-  server: prioritas.xl.co.id
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP113
-  server: prioritasfe-nonprod.ext.dp.xl.co.id
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP114
-  server: prioritasforyou-nonprod.ext.dp.xl.co.id
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP115
-  server: staging-egw.xl.co.id  
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP116
-  server: static.ext.dp.xl.co.id
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP117
-  server: www.xl.co.id 
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP118
-  server: zeus.xl.co.id 
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP119
-  server: zendesk1.grabtaxi.com
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP120
-  server: 104.17.3.81
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-- name: SGVIP121
-  server: 104.18.20.226
-  port: 80
-  type: trojan
-  password: trglobalvips1
-  network: ws
-  sni: jos21.surgavpnjos.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /netztrojan
-  headers:
-    Host: jos21.surgavpnjos.my.id
-  - name: SGVIP122
   server: cdn.onlymega.com
   port: 443
   type: trojan
@@ -1585,7 +1117,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP123
+- name: SGVIP87
   server: api.midtrans.com
   port: 443
   type: trojan
@@ -1598,7 +1130,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP124
+- name: SGVIP88
   server: cdn.noice.id
   port: 443
   type: trojan
@@ -1611,7 +1143,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP125
+- name: SGVIP89
   server: qiscus.com
   port: 443
   type: trojan
@@ -1624,7 +1156,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP126
+- name: SGVIP90
   server: www.udemy.com
   port: 443
   type: trojan
@@ -1637,7 +1169,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP127
+- name: SGVIP91
   server: api.kno2fy.com
   port: 443
   type: trojan
@@ -1650,7 +1182,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP128
+- name: SGVIP92
   server: fastworldpay.com
   port: 443
   type: trojan
@@ -1663,7 +1195,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP129
+- name: SGVIP93
   server: zoom.us
   port: 443
   type: trojan
@@ -1676,7 +1208,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP130
+- name: SGVIP94
   server: geo2.ggpht.com
   port: 443
   type: trojan
@@ -1689,7 +1221,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP131
+- name: SGVIP95
   server: meet.google.com
   port: 443
   type: trojan
@@ -1702,7 +1234,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP132
+- name: SGVIP96
   server: www.assetcontrol.net
   port: 443
   type: trojan
@@ -1715,7 +1247,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP133
+- name: SGVIP97
   server: assetcontrol.net
   port: 443
   type: trojan
@@ -1728,7 +1260,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP134
+- name: SGVIP98
   server: v.adup-tech.com.cdn.cloudflare.net
   port: 443
   type: trojan
@@ -1741,7 +1273,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP135
+- name: SGVIP99
   server: line.boychongzen.online
   port: 443
   type: trojan
@@ -1754,7 +1286,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP136
+- name: SGVIP100
   server: hilfe.spargut.com
   port: 443
   type: trojan
@@ -1767,7 +1299,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP137
+- name: SGVIP101
   server: 104.16.51.111
   port: 443
   type: trojan
@@ -1780,7 +1312,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP138
+- name: SGVIP102
   server: akrab.natanvpn.my.id
   port: 443
   type: trojan
@@ -1793,7 +1325,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP139
+- name: SGVIP103
   server: media.fsub2-4.fna.whatsapp.net
   port: 443
   type: trojan
@@ -1806,7 +1338,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP140
+- name: SGVIP104
   server: media.fpku1-3.fna.whatsapp.net
   port: 443
   type: trojan
@@ -1819,7 +1351,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP141
+- name: SGVIP105
   server: poker-daum.pmang.com
   port: 443
   type: trojan
@@ -1832,7 +1364,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP142
+- name: SGVIP106
   server: zoomcares.zoom.us
   port: 443
   type: trojan
@@ -1845,7 +1377,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP143
+- name: SGVIP107
   server: autodiscover.whatsapp.com
   port: 443
   type: trojan
@@ -1858,7 +1390,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP144
+- name: SGVIP108
   server: sogood.linefriends.com
   port: 443
   type: trojan
@@ -1871,7 +1403,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP145
+- name: SGVIP109
   server: 162.159.128.7
   port: 443
   type: trojan
@@ -1884,7 +1416,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP146
+- name: SGVIP110
   server: ggtechsupport.zendesk.com
   port: 443
   type: trojan
@@ -1897,7 +1429,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP147
+- name: SGVIP111
   server: account.pmang.game.naver.com
   port: 443
   type: trojan
@@ -1910,7 +1442,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP148
+- name: SGVIP112
   server: ink.zendesk.com
   port: 443
   type: trojan
@@ -1923,7 +1455,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP149
+- name: SGVIP113
   server: 104.21.21.104
   port: 443
   type: trojan
@@ -1936,7 +1468,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP150
+- name: SGVIP114
   server: 104.18.70.113
   port: 443
   type: trojan
@@ -1949,7 +1481,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP151
+- name: SGVIP115
   server: jooxza.zendesk.com
   port: 443
   type: trojan
@@ -1962,7 +1494,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP152
+- name: SGVIP116
   server: creativeservices.netflix.com
   port: 443
   type: trojan
@@ -1975,7 +1507,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP153
+- name: SGVIP117
   server: zendesk3.shopee.tw
   port: 443
   type: trojan
@@ -1988,7 +1520,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP154
+- name: SGVIP118
   server: support-whatsapp.zendesk.com
   port: 443
   type: trojan
@@ -2001,7 +1533,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP155
+- name: SGVIP119
   server: zendesk1.appsflyer.com
   port: 443
   type: trojan
@@ -2014,7 +1546,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP156
+- name: SGVIP120
   server: zendesk1.grabtaxi.com
   port: 443
   type: trojan
@@ -2027,7 +1559,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP157
+- name: SGVIP121
   server: zendesk4.grabtaxi.com
   port: 443
   type: trojan
@@ -2040,7 +1572,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP158
+- name: SGVIP122
   server: account-gopay.midtrans.com
   port: 443
   type: trojan
@@ -2053,7 +1585,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP159
+- name: SGVIP123
   server: interface-01.kno2fy.com
   port: 443
   type: trojan
@@ -2066,7 +1598,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP160
+- name: SGVIP124
   server: zendesk1.shopee.sg
   port: 443
   type: trojan
@@ -2079,7 +1611,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP161
+- name: SGVIP125
   server: 162.159.128.7
   port: 443
   type: trojan
@@ -2092,7 +1624,7 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-- name: SGVIP162
+- name: SGVIP126
   server: zendesk4.grabtaxi.com
   port: 443
   type: trojan
