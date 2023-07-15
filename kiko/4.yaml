@@ -1,241 +1,102 @@
 proxies:
 - name: SGVIP1
   server: jos21.surgavpnjos.my.id
-  type: trojan
   port: 443
+  type: trojan
   password: trglobalvips1
-  udp: true
+  network: grpc
   sni: zoom.us
   skip-cert-verify: true
+  udp: true
+  grpc-opts:
+    grpc-service-name: netztrojangrpc
 - name: SGVIP2
   server: jos21.surgavpnjos.my.id
-  type: trojan
   port: 443
+  type: trojan
   password: trglobalvips1
-  udp: true
-  sni: zoom.us
+  network: grpc
+  sni: geo2.ggpht.com
   skip-cert-verify: true
+  udp: true
+  grpc-opts:
+    grpc-service-name: netztrojangrpc
 - name: SGVIP3
   server: jos21.surgavpnjos.my.id
-  type: trojan
   port: 443
+  type: trojan
   password: trglobalvips1
-  udp: true
-  sni: geo2.ggpht.com
+  network: grpc
+  sni: meet.google.com
   skip-cert-verify: true
+  udp: true
+  grpc-opts:
+    grpc-service-name: netztrojangrpc
 - name: SGVIP4
-  server: jos21.surgavpnjos.my.id
+  server: kiko6.vpnglobal.my.id
+  port: 443
   type: trojan
-  port: 443 
-  password: trglobalvips1
-  udp: true
-  sni: meet.google.com
+  password: 25b225b1-7b0a-47fa-abdc-ff6d6d10e09e
+  network: grpc
+  sni: zoom.us
   skip-cert-verify: true
+  udp: true
+  grpc-opts:
+    grpc-service-name: trojan-grpc
 - name: SGVIP5
-  server: jos21.surgavpnjos.my.id
-  type: trojan
+  server: kiko6.vpnglobal.my.id
   port: 443
-  password: trglobalvips1
-  udp: true
+  type: trojan
+  password: 25b225b1-7b0a-47fa-abdc-ff6d6d10e09e
+  network: grpc
   sni: geo2.ggpht.com
   skip-cert-verify: true
-- name: SGVIP6
-  server: jos21.surgavpnjos.my.id
-  type: trojan
-  port: 443 
-  password: trglobalvips1
   udp: true
+  grpc-opts:
+    grpc-service-name: trojan-grpc
+- name: SGVIP5
+  server: kiko6.vpnglobal.my.id
+  port: 443
+  type: trojan
+  password: 25b225b1-7b0a-47fa-abdc-ff6d6d10e09e
+  network: grpc
   sni: meet.google.com
   skip-cert-verify: true
+  udp: true
+  grpc-opts:
+    grpc-service-name: trojan-grpc
 - name: SGVIP7
-  server: kiko6.vpnglobal.my.id
-  type: trojan
+  server: vip.androvpn.cloud
   port: 443
-  password: 25b225b1-7b0a-47fa-abdc-ff6d6d10e09e
-  udp: true
+  type: trojan
+  password: b35f2583-11e6-41c4-8706-a53d45df3597
+  network: grpc
   sni: zoom.us
   skip-cert-verify: true
+  udp: true
+  grpc-opts:
+    grpc-service-name: trojan-grpc
 - name: SGVIP8
-  server: kiko6.vpnglobal.my.id
-  type: trojan
+  server: vip.androvpn.cloud
   port: 443
-  password: 25b225b1-7b0a-47fa-abdc-ff6d6d10e09e
-  udp: true
-  sni: zoom.us
+  type: trojan
+  password: b35f2583-11e6-41c4-8706-a53d45df3597
+  network: grpc
+  sni: geo2.ggpht.com
   skip-cert-verify: true
+  udp: true
+  grpc-opts:
+    grpc-service-name: trojan-grpc
 - name: SGVIP9
-  server: kiko6.vpnglobal.my.id
-  type: trojan
-  port: 443
-  password: 25b225b1-7b0a-47fa-abdc-ff6d6d10e09e
-  udp: true
-  sni: geo2.ggpht.com
-  skip-cert-verify: true
-- name: SGVIP10
-  server: kiko6.vpnglobal.my.id
-  type: trojan
-  port: 443 
-  password: 25b225b1-7b0a-47fa-abdc-ff6d6d10e09e
-  udp: true
-  sni: meet.google.com
-  skip-cert-verify: true
-- name: SGVIP11
-  server: kiko6.vpnglobal.my.id
-  type: trojan
-  port: 443
-  password: 25b225b1-7b0a-47fa-abdc-ff6d6d10e09e
-  udp: true
-  sni: geo2.ggpht.com
-  skip-cert-verify: true
-- name: SGVIP12
-  server: kiko6.vpnglobal.my.id
-  type: trojan
-  port: 443 
-  password: 25b225b1-7b0a-47fa-abdc-ff6d6d10e09e
-  udp: true
-  sni: meet.google.com
-  skip-cert-verify: true
-- name: SGVIP13
-  server: sg6-trojan.bonds.id
-  type: trojan
-  port: 443
-  password: 2ac8d8d0-227d-11ee-ae5f-1239d0255272
-  udp: true
-  sni: zoom.us
-  skip-cert-verify: true
-- name: SGVIP14
-  server: sg6-trojan.bonds.id
-  type: trojan
-  port: 443
-  password: 2ac8d8d0-227d-11ee-ae5f-1239d0255272
-  udp: true
-  sni: zoom.us
-  skip-cert-verify: true
-- name: SGVIP15
-  server: sg6-trojan.bonds.id
-  type: trojan
-  port: 443
-  password: 2ac8d8d0-227d-11ee-ae5f-1239d0255272
-  udp: true
-  sni: geo2.ggpht.com
-  skip-cert-verify: true
-- name: SGVIP15
-  server: sg6-trojan.bonds.id
-  type: trojan
-  port: 443 
-  password: 2ac8d8d0-227d-11ee-ae5f-1239d0255272
-  udp: true
-  sni: meet.google.com
-  skip-cert-verify: true
-- name: SGVIP16
-  server: sg6-trojan.bonds.id
-  type: trojan
-  port: 443
-  password: 2ac8d8d0-227d-11ee-ae5f-1239d0255272
-  udp: true
-  sni: geo2.ggpht.com
-  skip-cert-verify: true
-- name: SGVIP17
-  server: sg6-trojan.bonds.id
-  type: trojan
-  port: 443 
-  password: 2ac8d8d0-227d-11ee-ae5f-1239d0255272
-  udp: true
-  sni: meet.google.com
-  skip-cert-verify: true
-- name: SGVIP18
-  server: kiko2.vpnglobal.my.id
-  type: trojan
-  port: 443
-  password: 2305e662-aca2-4803-b544-5c0e564dee46
-  udp: true
-  sni: zoom.us
-  skip-cert-verify: true
-- name: SGVIP19
-  server: kiko2.vpnglobal.my.id
-  type: trojan
-  port: 443
-  password: 2305e662-aca2-4803-b544-5c0e564dee46
-  udp: true
-  sni: zoom.us
-  skip-cert-verify: true
-- name: SGVIP20
-  server: kiko2.vpnglobal.my.id
-  type: trojan
-  port: 443
-  password: 2305e662-aca2-4803-b544-5c0e564dee46
-  udp: true
-  sni: geo2.ggpht.com
-  skip-cert-verify: true
-- name: SGVIP21
-  server: kiko2.vpnglobal.my.id
-  type: trojan
-  port: 443 
-  password: 2305e662-aca2-4803-b544-5c0e564dee46
-  udp: true
-  sni: meet.google.com
-  skip-cert-verify: true
-- name: SGVIP22
-  server: kiko2.vpnglobal.my.id
-  type: trojan
-  port: 443
-  password: 2305e662-aca2-4803-b544-5c0e564dee46
-  udp: true
-  sni: geo2.ggpht.com
-  skip-cert-verify: true
-- name: SGVIP23
-  server: kiko2.vpnglobal.my.id
-  type: trojan
-  port: 443 
-  password: 2305e662-aca2-4803-b544-5c0e564dee46
-  udp: true
-  sni: meet.google.com
-  skip-cert-verify: true
-- name: SGVIP24
   server: vip.androvpn.cloud
-  type: trojan
   port: 443
-  password: b35f2583-11e6-41c4-8706-a53d45df3597
-  udp: true
-  sni: zoom.us
-  skip-cert-verify: true
-- name: SGVIP25
-  server: vip.androvpn.cloud
   type: trojan
-  port: 443
   password: b35f2583-11e6-41c4-8706-a53d45df3597
-  udp: true
-  sni: zoom.us
-  skip-cert-verify: true
-- name: SGVIP26
-  server: vip.androvpn.cloud
-  type: trojan
-  port: 443
-  password: b35f2583-11e6-41c4-8706-a53d45df3597
-  udp: true
-  sni: geo2.ggpht.com
-  skip-cert-verify: true
-- name: SGVIP27
-  server: vip.androvpn.cloud
-  type: trojan
-  port: 443 
-  password: b35f2583-11e6-41c4-8706-a53d45df3597
-  udp: true
+  network: grpc
   sni: meet.google.com
   skip-cert-verify: true
-- name: SGVIP28
-  server: vip.androvpn.cloud
-  type: trojan
-  port: 443
-  password: b35f2583-11e6-41c4-8706-a53d45df3597
   udp: true
-  sni: geo2.ggpht.com
-  skip-cert-verify: true
-- name: SGVIP29
-  server: vip.androvpn.cloud
-  type: trojan
-  port: 443 
-  password: b35f2583-11e6-41c4-8706-a53d45df3597
-  udp: true
-  sni: meet.google.com
-  skip-cert-verify: true
+  grpc-opts:
+    grpc-service-name: trojan-grpc
+
+
