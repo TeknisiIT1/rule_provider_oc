@@ -12,7 +12,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP2
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -23,7 +23,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP3
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -34,7 +34,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP4
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -45,7 +45,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP5
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -56,7 +56,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP6
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -67,7 +67,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP7
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -78,7 +78,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP8
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -89,7 +89,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP9
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -100,7 +100,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP10
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -111,7 +111,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP11
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -122,7 +122,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP12
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -133,7 +133,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP13
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -144,7 +144,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP14
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -155,7 +155,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP15
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -166,7 +166,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP16
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -177,7 +177,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP17
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -188,7 +188,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP18
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -199,7 +199,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP19
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -210,7 +210,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP20
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -221,7 +221,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP21
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -232,7 +232,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP22
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -243,7 +243,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP23
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -254,7 +254,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP24
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -265,7 +265,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP25
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -276,7 +276,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP26
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -287,7 +287,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP27
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -298,7 +298,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP28
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -309,7 +309,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP29
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -320,7 +320,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP30
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -331,7 +331,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP31
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -342,7 +342,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP32
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -353,7 +353,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP33
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -364,7 +364,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP34
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -375,7 +375,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP35
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -386,7 +386,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP36
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -397,7 +397,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP37
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -408,7 +408,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP38
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -419,7 +419,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP39
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -430,7 +430,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP40
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -441,7 +441,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP41
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -452,7 +452,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP42
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -463,7 +463,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP43
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -474,7 +474,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP44
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -485,7 +485,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP45
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -496,7 +496,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP46
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -507,7 +507,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP47
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -518,7 +518,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP48
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -529,7 +529,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP49
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -540,7 +540,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP50
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -551,7 +551,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP51
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -562,7 +562,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP52
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -573,7 +573,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP53
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -584,7 +584,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP54
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -595,7 +595,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP55
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -606,7 +606,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP56
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -617,7 +617,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP57
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -628,7 +628,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP58
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -639,7 +639,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP59
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -650,7 +650,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP60
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -661,7 +661,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP61
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -672,7 +672,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP62
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -683,7 +683,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP63
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -694,7 +694,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP64
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -705,7 +705,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP65
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -716,7 +716,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP66
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -727,7 +727,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP67
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -738,7 +738,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP68
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -749,7 +749,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP69
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -760,7 +760,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP70
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -771,7 +771,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP71
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -782,7 +782,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP72
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -793,7 +793,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP73
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -804,7 +804,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP74
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -815,7 +815,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP75
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -826,7 +826,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP76
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -837,7 +837,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP77
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -848,7 +848,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP78
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -859,7 +859,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP79
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -870,7 +870,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP80
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -881,7 +881,7 @@ proxies:
     grpc-service-name: netztrojangrpc
 - name: SGVIP81
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: grpc
@@ -890,4 +890,3 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-
