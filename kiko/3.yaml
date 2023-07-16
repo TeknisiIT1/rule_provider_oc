@@ -14,7 +14,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP2
   server: 104.16.51.111
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -27,7 +27,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP3
   server: 104.18.1.145
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -40,7 +40,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP4
   server: 104.16.51.111
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -53,7 +53,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP5
   server: 172.65.251.114
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -66,7 +66,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP6
   server: 104.16.65.85
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -79,7 +79,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP7
   server: 104.16.53.111
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -92,7 +92,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP8
   server: 162.159.134.42
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -105,7 +105,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP9
   server: 104.16.234.163
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -118,7 +118,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP10
   server: 172.67.213.134
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -131,7 +131,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP11
   server: 104.16.51.111
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -144,7 +144,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP12
   server: 104.16.53.111
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -157,7 +157,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP13
   server: cf-vod.nimo.tv
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -170,7 +170,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP14
   server: api.duniagames.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -183,7 +183,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP15
   server: ir.huya.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -196,7 +196,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP16
   server: 104.18.41.141
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -209,7 +209,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP17
   server: web.poe.garena.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -222,7 +222,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP18
   server: cdn.appsflayer.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -235,7 +235,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP19
   server: img.email1.vidio.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -248,7 +248,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP20
   server: img.email2.vidio.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -261,7 +261,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP21
   server: img.email3.vidio.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -274,7 +274,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP22
   server: quiz.vidio.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -287,7 +287,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP23
   server: quiz.int.vidio.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -300,7 +300,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP24
   server: quiz.staging.vidio.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -313,7 +313,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP25
   server: cache.netflix.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -326,7 +326,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP26
   server: creativeservices.netflix.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -339,7 +339,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP27
   server: devices.netflix.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -352,7 +352,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP28
   server: lacounty.netflix.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -365,7 +365,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP29
   server: npca.netflix.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -378,7 +378,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP30
   server: openconnect.netflix.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -391,7 +391,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP31
   server: updates.netflix.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -404,7 +404,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP32
   server: cdnodeb.visionplus.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -417,7 +417,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP33
   server: help.viu.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -430,7 +430,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP34
   server: cdn.noice.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -443,7 +443,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP35
   server: feeds.noice.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -456,7 +456,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP36
   server: images.noice.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -469,7 +469,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP37
   server: open.noice.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -482,7 +482,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP38
   server: open-dev.noice.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -495,7 +495,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP39
   server: open-uat.noice.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -508,7 +508,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP40
   server: test.noice.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -521,7 +521,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP41
   server: uat.noice.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -534,7 +534,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP42
   server: www.noice.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -547,7 +547,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP43
   server: sogood.linefriends.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -560,7 +560,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP44
   server: ava.game.naver.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -573,7 +573,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP45
   server: account.pmang.game.naver.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -586,7 +586,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP46
   server: care.pmang.game.naver.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -599,7 +599,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP47
   server: df.game.naver.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -612,7 +612,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP48
   server: www.digicert.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -625,7 +625,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP49
   server: hilfe.spargut.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -638,7 +638,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP50
   server: test.spargut.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -651,7 +651,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP51
   server: www.spargut.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -664,7 +664,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP52
   server: web.web.whatsapp.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -677,7 +677,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP53
   server: ww.web.whatsapp.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -690,7 +690,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP54
   server: w1.web.whatsapp.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -703,7 +703,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP55
   server: w2.web.whatsapp.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -716,7 +716,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP56
   server: w3.web.whatsapp.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -729,7 +729,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP57
   server: w4.web.whatsapp.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -742,7 +742,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP58
   server: w5.web.whatsapp.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -755,7 +755,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP59
   server: w6.web.whatsapp.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -768,7 +768,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP60
   server: w7.web.whatsapp.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -781,7 +781,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP61
   server: w8.web.whatsapp.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -794,7 +794,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP62
   server: media.fpku1-3.fna.whatsapp.net
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -807,7 +807,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP63
   server: media.fcgk35-1.fna.whatsapp.net
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -820,7 +820,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP64
   server: media-sin6-3.cdn.whatsapp.net
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -833,7 +833,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP65
   server: v.whatsapp.net
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -846,7 +846,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP66
   server: tellafriendreceiver.whatsapp.net
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -859,7 +859,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP67
   server: sonar.fsub8-1.fna.whatsapp.net
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -872,7 +872,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP68
   server: dl.cacerts.digicert.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -885,7 +885,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP69
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -898,7 +898,7 @@ proxies:
     Host: web.web.whatsapp.com
 - name: SGVIP70
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -911,7 +911,7 @@ proxies:
     Host: ww.web.whatsapp.com
 - name: SGVIP71
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -924,7 +924,7 @@ proxies:
     Host: w1.web.whatsapp.com
 - name: SGVIP72
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -937,7 +937,7 @@ proxies:
     Host: w2.web.whatsapp.com
 - name: SGVIP73
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -950,7 +950,7 @@ proxies:
     Host: w3.web.whatsapp.com
 - name: SGVIP74
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -963,7 +963,7 @@ proxies:
     Host: w4.web.whatsapp.com
 - name: SGVIP75
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -976,7 +976,7 @@ proxies:
     Host: w5.web.whatsapp.com
 - name: SGVIP76
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -989,7 +989,7 @@ proxies:
     Host: w6.web.whatsapp.com
 - name: SGVIP77
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1002,7 +1002,7 @@ proxies:
     Host: w7.web.whatsapp.com
 - name: SGVIP78
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1015,7 +1015,7 @@ proxies:
     Host: w8.web.whatsapp.com
 - name: SGVIP79
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1028,7 +1028,7 @@ proxies:
     Host: media.fpku1-3.fna.whatsapp.net
 - name: SGVIP80
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1041,7 +1041,7 @@ proxies:
     Host: media.fcgk35-1.fna.whatsapp.net
 - name: SGVIP81
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1054,7 +1054,7 @@ proxies:
     Host: media-sin6-3.cdn.whatsapp.net
 - name: SGVIP82
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1067,7 +1067,7 @@ proxies:
     Host: v.whatsapp.net
 - name: SGVIP83
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1080,7 +1080,7 @@ proxies:
     Host: tellafriendreceiver.whatsapp.net
 - name: SGVIP84
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1093,7 +1093,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP85
   server: jos21.surgavpnjos.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1106,7 +1106,7 @@ proxies:
     Host: dl.cacerts.digicert.com
 - name: SGVIP86
   server: cdn.onlymega.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1119,7 +1119,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP87
   server: api.midtrans.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1132,7 +1132,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP88
   server: cdn.noice.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1145,7 +1145,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP89
   server: qiscus.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1158,7 +1158,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP90
   server: www.udemy.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1171,7 +1171,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP91
   server: api.kno2fy.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1184,7 +1184,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP92
   server: fastworldpay.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1197,7 +1197,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP93
   server: zoom.us
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1210,7 +1210,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP94
   server: geo2.ggpht.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1223,7 +1223,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP95
   server: meet.google.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1236,7 +1236,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP96
   server: www.assetcontrol.net
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1249,7 +1249,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP97
   server: assetcontrol.net
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1262,7 +1262,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP98
   server: v.adup-tech.com.cdn.cloudflare.net
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1275,7 +1275,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP99
   server: line.boychongzen.online
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1288,7 +1288,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP100
   server: hilfe.spargut.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1301,7 +1301,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP101
   server: 104.16.51.111
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1314,7 +1314,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP102
   server: akrab.natanvpn.my.id
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1327,7 +1327,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP103
   server: media.fsub2-4.fna.whatsapp.net
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1340,7 +1340,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP104
   server: media.fpku1-3.fna.whatsapp.net
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1353,7 +1353,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP105
   server: poker-daum.pmang.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1366,7 +1366,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP106
   server: zoomcares.zoom.us
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1379,7 +1379,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP107
   server: autodiscover.whatsapp.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1392,7 +1392,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP108
   server: sogood.linefriends.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1405,7 +1405,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP109
   server: 162.159.128.7
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1418,7 +1418,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP110
   server: ggtechsupport.zendesk.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1431,7 +1431,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP111
   server: account.pmang.game.naver.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1444,7 +1444,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP112
   server: ink.zendesk.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1457,7 +1457,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP113
   server: 104.21.21.104
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1470,7 +1470,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP114
   server: 104.18.70.113
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1483,7 +1483,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP115
   server: jooxza.zendesk.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1496,7 +1496,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP116
   server: creativeservices.netflix.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1509,7 +1509,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP117
   server: zendesk3.shopee.tw
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1522,7 +1522,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP118
   server: support-whatsapp.zendesk.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1535,7 +1535,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP119
   server: zendesk1.appsflyer.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1548,7 +1548,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP120
   server: zendesk1.grabtaxi.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1561,7 +1561,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP121
   server: zendesk4.grabtaxi.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1574,7 +1574,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP122
   server: account-gopay.midtrans.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1587,7 +1587,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP123
   server: interface-01.kno2fy.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1600,7 +1600,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP124
   server: zendesk1.shopee.sg
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1613,7 +1613,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP125
   server: 162.159.128.7
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
@@ -1626,7 +1626,7 @@ proxies:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP126
   server: zendesk4.grabtaxi.com
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
