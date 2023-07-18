@@ -3,7 +3,7 @@ proxies:
   server: 104.16.66.85
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -16,7 +16,7 @@ proxies:
   server: 104.16.51.111
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -29,7 +29,7 @@ proxies:
   server: 104.18.1.145
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -42,7 +42,7 @@ proxies:
   server: 104.16.51.111
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -55,7 +55,7 @@ proxies:
   server: 172.65.251.114
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -68,7 +68,7 @@ proxies:
   server: 104.16.65.85
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -81,7 +81,7 @@ proxies:
   server: 104.16.53.111
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -94,7 +94,7 @@ proxies:
   server: 162.159.134.42
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -107,7 +107,7 @@ proxies:
   server: 104.16.234.163
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -120,7 +120,7 @@ proxies:
   server: 172.67.213.134
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -133,7 +133,7 @@ proxies:
   server: 104.16.51.111
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -146,7 +146,7 @@ proxies:
   server: 104.16.53.111
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -159,7 +159,7 @@ proxies:
   server: cf-vod.nimo.tv
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -172,7 +172,7 @@ proxies:
   server: api.duniagames.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -185,7 +185,7 @@ proxies:
   server: ir.huya.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -198,7 +198,7 @@ proxies:
   server: 104.18.41.141
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -211,7 +211,7 @@ proxies:
   server: web.poe.garena.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -224,7 +224,7 @@ proxies:
   server: cdn.appsflayer.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -237,7 +237,7 @@ proxies:
   server: img.email1.vidio.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -250,7 +250,7 @@ proxies:
   server: img.email2.vidio.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -263,7 +263,7 @@ proxies:
   server: img.email3.vidio.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -276,7 +276,7 @@ proxies:
   server: quiz.vidio.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -289,7 +289,7 @@ proxies:
   server: quiz.int.vidio.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -302,7 +302,7 @@ proxies:
   server: quiz.staging.vidio.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -315,7 +315,7 @@ proxies:
   server: cache.netflix.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -328,7 +328,7 @@ proxies:
   server: creativeservices.netflix.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -341,7 +341,7 @@ proxies:
   server: devices.netflix.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -354,7 +354,7 @@ proxies:
   server: lacounty.netflix.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -367,7 +367,7 @@ proxies:
   server: npca.netflix.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -380,7 +380,7 @@ proxies:
   server: openconnect.netflix.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -393,7 +393,7 @@ proxies:
   server: updates.netflix.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -406,7 +406,7 @@ proxies:
   server: cdnodeb.visionplus.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -419,7 +419,7 @@ proxies:
   server: help.viu.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -432,7 +432,7 @@ proxies:
   server: cdn.noice.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -445,7 +445,7 @@ proxies:
   server: feeds.noice.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -458,7 +458,7 @@ proxies:
   server: images.noice.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -471,7 +471,7 @@ proxies:
   server: open.noice.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -484,7 +484,7 @@ proxies:
   server: open-dev.noice.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -497,7 +497,7 @@ proxies:
   server: open-uat.noice.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -510,7 +510,7 @@ proxies:
   server: test.noice.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -523,7 +523,7 @@ proxies:
   server: uat.noice.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -536,7 +536,7 @@ proxies:
   server: www.noice.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -549,7 +549,7 @@ proxies:
   server: sogood.linefriends.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -562,7 +562,7 @@ proxies:
   server: ava.game.naver.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -575,7 +575,7 @@ proxies:
   server: account.pmang.game.naver.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -588,7 +588,7 @@ proxies:
   server: care.pmang.game.naver.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -601,7 +601,7 @@ proxies:
   server: df.game.naver.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -614,7 +614,7 @@ proxies:
   server: www.digicert.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -627,7 +627,7 @@ proxies:
   server: hilfe.spargut.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -640,7 +640,7 @@ proxies:
   server: test.spargut.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -653,7 +653,7 @@ proxies:
   server: www.spargut.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -666,7 +666,7 @@ proxies:
   server: web.web.whatsapp.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -679,7 +679,7 @@ proxies:
   server: ww.web.whatsapp.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -692,7 +692,7 @@ proxies:
   server: w1.web.whatsapp.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -705,7 +705,7 @@ proxies:
   server: w2.web.whatsapp.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -718,7 +718,7 @@ proxies:
   server: w3.web.whatsapp.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -731,7 +731,7 @@ proxies:
   server: w4.web.whatsapp.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -744,7 +744,7 @@ proxies:
   server: w5.web.whatsapp.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -757,7 +757,7 @@ proxies:
   server: w6.web.whatsapp.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -770,7 +770,7 @@ proxies:
   server: w7.web.whatsapp.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -783,7 +783,7 @@ proxies:
   server: w8.web.whatsapp.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -796,7 +796,7 @@ proxies:
   server: media.fpku1-3.fna.whatsapp.net
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -809,7 +809,7 @@ proxies:
   server: media.fcgk35-1.fna.whatsapp.net
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -822,7 +822,7 @@ proxies:
   server: media-sin6-3.cdn.whatsapp.net
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -835,7 +835,7 @@ proxies:
   server: v.whatsapp.net
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -848,7 +848,7 @@ proxies:
   server: tellafriendreceiver.whatsapp.net
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -861,7 +861,7 @@ proxies:
   server: sonar.fsub8-1.fna.whatsapp.net
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -874,7 +874,7 @@ proxies:
   server: dl.cacerts.digicert.com
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -887,7 +887,7 @@ proxies:
   server: jos21.surgavpnjos.my.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: web.web.whatsapp.com
   skip-cert-verify: true
@@ -900,7 +900,7 @@ proxies:
   server: jos21.surgavpnjos.my.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: ww.web.whatsapp.com
   skip-cert-verify: true
@@ -913,7 +913,7 @@ proxies:
   server: jos21.surgavpnjos.my.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: w1.web.whatsapp.com
   skip-cert-verify: true
@@ -926,7 +926,7 @@ proxies:
   server: jos21.surgavpnjos.my.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: w2.web.whatsapp.com
   skip-cert-verify: true
@@ -939,7 +939,7 @@ proxies:
   server: jos21.surgavpnjos.my.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: w3.web.whatsapp.com
   skip-cert-verify: true
@@ -952,7 +952,7 @@ proxies:
   server: jos21.surgavpnjos.my.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: w4.web.whatsapp.com
   skip-cert-verify: true
@@ -965,7 +965,7 @@ proxies:
   server: jos21.surgavpnjos.my.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: w5.web.whatsapp.com
   skip-cert-verify: true
@@ -978,7 +978,7 @@ proxies:
   server: jos21.surgavpnjos.my.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: w6.web.whatsapp.com
   skip-cert-verify: true
@@ -991,7 +991,7 @@ proxies:
   server: jos21.surgavpnjos.my.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: w7.web.whatsapp.com
   skip-cert-verify: true
@@ -1004,7 +1004,7 @@ proxies:
   server: jos21.surgavpnjos.my.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: w8.web.whatsapp.com
   skip-cert-verify: true
@@ -1017,7 +1017,7 @@ proxies:
   server: jos21.surgavpnjos.my.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: media.fpku1-3.fna.whatsapp.net
   skip-cert-verify: true
@@ -1030,7 +1030,7 @@ proxies:
   server: jos21.surgavpnjos.my.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: media.fcgk35-1.fna.whatsapp.net
   skip-cert-verify: true
@@ -1043,7 +1043,7 @@ proxies:
   server: jos21.surgavpnjos.my.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: media-sin6-3.cdn.whatsapp.net
   skip-cert-verify: true
@@ -1056,7 +1056,7 @@ proxies:
   server: jos21.surgavpnjos.my.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: v.whatsapp.net
   skip-cert-verify: true
@@ -1069,7 +1069,7 @@ proxies:
   server: jos21.surgavpnjos.my.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: tellafriendreceiver.whatsapp.net
   skip-cert-verify: true
@@ -1082,7 +1082,7 @@ proxies:
   server: jos21.surgavpnjos.my.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: sonar.fsub8-1.fna.whatsapp.net
   skip-cert-verify: true
@@ -1095,7 +1095,7 @@ proxies:
   server: jos21.surgavpnjos.my.id
   port: 443
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: dl.cacerts.digicert.com
   skip-cert-verify: true
@@ -1108,7 +1108,7 @@ proxies:
   server: sogood.linefriends.com
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1121,7 +1121,7 @@ proxies:
   server: ava.game.naver.com
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1134,7 +1134,7 @@ proxies:
   server: account.pmang.game.naver.com
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1147,7 +1147,7 @@ proxies:
   server: care.pmang.game.naver.com
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1160,7 +1160,7 @@ proxies:
   server: df.game.naver.com
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1173,7 +1173,7 @@ proxies:
   server: hilfe.spargut.com
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1186,7 +1186,7 @@ proxies:
   server: test.spargut.com
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1199,7 +1199,7 @@ proxies:
   server: www.spargut.com
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1212,7 +1212,7 @@ proxies:
   server: sogood.linefriends.com
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: false
@@ -1225,7 +1225,7 @@ proxies:
   server: ava.game.naver.com
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: false
@@ -1238,7 +1238,7 @@ proxies:
   server: account.pmang.game.naver.com
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: false
@@ -1251,7 +1251,7 @@ proxies:
   server: care.pmang.game.naver.com
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: false
@@ -1264,7 +1264,7 @@ proxies:
   server: df.game.naver.com
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: false
@@ -1277,7 +1277,7 @@ proxies:
   server: hilfe.spargut.com
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: false
@@ -1290,7 +1290,7 @@ proxies:
   server: test.spargut.com
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: false
@@ -1303,7 +1303,7 @@ proxies:
   server: www.spargut.com
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: false
@@ -1316,7 +1316,7 @@ proxies:
   server: 172.67.26.118
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1329,7 +1329,7 @@ proxies:
   server: ava.game.naver.com
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1342,7 +1342,7 @@ proxies:
   server: sogood.linefriends.com
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1355,7 +1355,7 @@ proxies:
   server: chat.xl.co.id
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1368,7 +1368,7 @@ proxies:
   server: ciam-derawan.xl.co.id
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1381,7 +1381,7 @@ proxies:
   server: ciam-rajaampat.xl.co.id
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1394,7 +1394,7 @@ proxies:
   server: comet.xl.co.id
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1407,7 +1407,7 @@ proxies:
   server: e-atp.xl.co.id
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1420,7 +1420,7 @@ proxies:
   server: egw.xl.co.id
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1433,7 +1433,7 @@ proxies:
   server: elms.xl.co.id
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1446,7 +1446,7 @@ proxies:
   server: prioritas.xl.co.id
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1459,7 +1459,7 @@ proxies:
   server: prioritasfe-nonprod.ext.dp.xl.co.id
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1472,7 +1472,7 @@ proxies:
   server: prioritasforyou-nonprod.ext.dp.xl.co.id
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1485,7 +1485,7 @@ proxies:
   server: staging-egw.xl.co.id  
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1498,7 +1498,7 @@ proxies:
   server: static.ext.dp.xl.co.id
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1511,7 +1511,7 @@ proxies:
   server: www.xl.co.id 
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1524,7 +1524,7 @@ proxies:
   server: zeus.xl.co.id 
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1537,7 +1537,7 @@ proxies:
   server: zendesk1.grabtaxi.com
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1550,7 +1550,7 @@ proxies:
   server: 104.17.3.81
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
@@ -1563,7 +1563,7 @@ proxies:
   server: 104.18.20.226
   port: 80
   type: trojan
-  password: trglobalvips1
+  password: trglobalvips2
   network: ws
   sni: jos21.surgavpnjos.my.id
   skip-cert-verify: true
