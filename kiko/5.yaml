@@ -2672,3 +2672,157 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
+- name: SGVIP244
+  server: jos21.surgavpnjos.my.id
+  port: 80
+  type: trojan
+  password: trglobalvips1
+  network: grpc
+  sni: www.web.whatsapp.com
+  skip-cert-verify: true
+  udp: true
+  grpc-opts:
+    grpc-service-name: netztrojangrpc
+- name: SGVIP245
+  server: jos21.surgavpnjos.my.id
+  port: 80
+  type: trojan
+  password: trglobalvips1
+  network: grpc
+  sni: w5.web.whatsapp.com
+  skip-cert-verify: true
+  udp: true
+  grpc-opts:
+    grpc-service-name: netztrojangrpc
+- name: SGVIP246
+  server: jos21.surgavpnjos.my.id
+  port: 80
+  type: trojan
+  password: trglobalvips1
+  network: grpc
+  sni: w5.web.whastapp.net
+  skip-cert-verify: true
+  udp: true
+  grpc-opts:
+    grpc-service-name: netztrojangrpc
+- name: SGVIP247
+  server: jos21.surgavpnjos.my.id
+  port: 80
+  type: trojan
+  password: trglobalvips1
+  network: grpc
+  sni: em.linebiz.com
+  skip-cert-verify: true
+  udp: true
+  grpc-opts:
+    grpc-service-name: netztrojangrpc
+- name: SGVIP248
+  server: jos21.surgavpnjos.my.id
+  port: 80
+  type: trojan
+  password: trglobalvips1
+  network: grpc
+  sni: go.linebiz.com
+  skip-cert-verify: true
+  udp: true
+  grpc-opts:
+    grpc-service-name: netztrojangrpc
+- name: SGVIP249
+  server: jos21.surgavpnjos.my.id
+  port: 80
+  type: trojan
+  password: trglobalvips1
+  network: grpc
+  sni: media.fcgk32-1.fna.whatsapp.net
+  skip-cert-verify: true
+  udp: true
+  grpc-opts:
+    grpc-service-name: netztrojangrpc
+- name: SGVIP250
+  server: jos21.surgavpnjos.my.id
+  port: 80
+  type: trojan
+  password: trglobalvips1
+  network: grpc
+  sni: media.fcgk4-3.fna.whatsapp.net
+  skip-cert-verify: true
+  udp: true
+  grpc-opts:
+    grpc-service-name: netztrojangrpc
+- name: SGVIP251
+  server: jos21.surgavpnjos.my.id
+  port: 80
+  type: trojan
+  password: trglobalvips1
+  network: grpc
+  sni: media.fsin12-1.fna.whatsapp.net
+  skip-cert-verify: true
+  udp: true
+  grpc-opts:
+    grpc-service-name: netztrojangrpc
+- name: SGVIP252
+  server: jos21.surgavpnjos.my.id
+  port: 80
+  type: trojan
+  password: trglobalvips1
+  network: grpc
+  sni: media.fmnl8-1.fna.whatsapp.net
+  skip-cert-verify: true
+  udp: true
+  grpc-opts:
+    grpc-service-name: netztrojangrpc
+- name: SGVIP253
+  server: jos21.surgavpnjos.my.id
+  port: 80
+  type: trojan
+  password: trglobalvips1
+  network: grpc
+  sni: media.fceb1-2.fna.whatsapp.net
+  skip-cert-verify: true
+  udp: true
+  grpc-opts:
+    grpc-service-name: netztrojangrpc
+- name: SGVIP254
+  server: jos21.surgavpnjos.my.id
+  port: 80
+  type: trojan
+  password: trglobalvips1
+  network: grpc
+  sni: fgyn23-1.fna.whatsapp.net
+  skip-cert-verify: true
+  udp: true
+  grpc-opts:
+    grpc-service-name: netztrojangrpc
+- name: SGVIP255
+  server: jos21.surgavpnjos.my.id
+  port: 80
+  type: trojan
+  password: trglobalvips1
+  network: grpc
+  sni: fcia6-1.fna.whatsapp.net
+  skip-cert-verify: true
+  udp: true
+  grpc-opts:
+    grpc-service-name: netztrojangrpc
+- name: SGVIP256
+  server: jos21.surgavpnjos.my.id
+  port: 80
+  type: trojan
+  password: trglobalvips1
+  network: grpc
+  sni: fsub10-2.fna.whatsapp.net
+  skip-cert-verify: true
+  udp: true
+  grpc-opts:
+    grpc-service-name: netztrojangrpc
+- name: SGVIP257
+  server: jos21.surgavpnjos.my.id
+  port: 80
+  type: trojan
+  password: trglobalvips1
+  network: grpc
+  sni: chat.xl.co.id
+  skip-cert-verify: true
+  udp: true
+  grpc-opts:
+    grpc-service-name: netztrojangrpc
