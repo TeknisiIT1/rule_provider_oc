@@ -2780,4 +2780,186 @@ proxies:
   ws-opts:
     path: /netztrojan
   headers:
-    Host: 104.18.3.2
+    Host: 104.18.3.2 
+- name: SGVIP214
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: www.web.whatsapp.com
+- name: SGVIP215
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: w5.web.whatsapp.com
+- name: SGVIP216
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: w5.web.whastapp.net
+- name: SGVIP217
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: em.linebiz.com
+- name: SGVIP218
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: go.linebiz.com	
+- name: SGVIP219
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: media.fcgk32-1.fna.whatsapp.net
+- name: SGVIP220
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: media.fcgk4-3.fna.whatsapp.net
+- name: SGVIP221
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: media.fsin12-1.fna.whatsapp.net
+- name: SGVIP222
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: media.fmnl8-1.fna.whatsapp.net
+- name: SGVIP223
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: media.fceb1-2.fna.whatsapp.net
+- name: SGVIP224
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: fgyn23-1.fna.whatsapp.net
+- name: SGVIP225
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: fcia6-1.fna.whatsapp.net
+- name: SGVIP226
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: fsub10-2.fna.whatsapp.net
+- name: SGVIP227
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: chat.xl.co.id
