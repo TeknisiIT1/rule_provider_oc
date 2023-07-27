@@ -3457,3 +3457,666 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
+- name: SGVIP266
+  server: powertoolsonlinecorp.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP267
+  server: allbrightusa.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP268
+  server: allcapacitors.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP269
+  server: angevinesfinesilver.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP270
+  server: apexgolfcarts.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP271
+  server: aquavibrant.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP272
+  server: associatedparts.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP273
+  server: bestvibes.ca
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP274
+  server: blowoutgolf.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP275
+  server: bobandtomstore.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP276
+  server: botanitrim.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP277
+  server: buildershut.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP278
+  server: buyvpc.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP279
+  server: changingworld.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP280
+  server: expedition-imports.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP281
+  server: gameroomgallery.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP282
+  server: goprocut.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP283
+  server: hakalalabs.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP284
+  server: horizonpools-us.3dcartstores.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP285
+  server: infowarslife.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP286
+  server: inspirationscents.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP287
+  server: isheaves.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP288
+  server: jonesandson.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP289
+  server: larryshardware.ky
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP290
+  server: li-lacchocolates.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP291
+  server: lifewares.com.au
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP292
+  server: nationalcarburetors.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP293
+  server: patsgear.org
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP294
+  server: piggear.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP295
+  server: powertoolsonlinecorp.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP296
+  server: ralphthorneracing.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP297
+  server: reds-racing-usa.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP298
+  server: saltybottomreefcompany.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP299
+  server: savvam.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP300
+  server: seattletechworks.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP301
+  server: shoesform.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP302
+  server: skeletonwatchshop.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP303
+  server: sportslivedecals.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP304
+  server: store.chaico.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP305
+  server: store.x-plane.org
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP306
+  server: www.aedsuperstore.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP307
+  server: www.cpr-savers.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP308
+  server: www.eds.bz
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP309
+  server: www.franticstamper.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP310
+  server: www.h-mac.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP311
+  server: www.heartsmart.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP311
+  server: www.homebrewing.org
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP312
+  server: www.itapestore.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP313
+  server: www.li-lacchocolates.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP314
+  server: msi-viking.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP315
+  server: woodtoworks.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
