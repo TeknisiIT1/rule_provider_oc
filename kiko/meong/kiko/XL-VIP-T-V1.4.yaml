@@ -1,1 +1,414 @@
-aa
+---
+rule-providers:
+  Akrb:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/Akrab.yaml
+    path: "./rule_provider_oc/Akrab.yaml"
+    interval: 100
+  ADS:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/ADS.yaml
+    path: "./rule_provider_oc/ADS.yaml"
+    interval: 100
+  Bank:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/bank.yaml
+    path: "./rule_provider_oc/bank.yaml"
+    interval: 100
+  Instagram:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/Instagram.yaml
+    path: "./rule_provider_oc/Instagram.yaml"
+    interval: 100
+  Facebook:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/Facebook.yaml
+    path: "./rule_provider_oc/Facebook.yaml"
+    interval: 100
+  Twitter:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/Twitter.yaml
+    path: "./rule_provider_oc/Twitter.yaml"
+    interval: 100
+  YouTube:
+    type: http
+    behavior: classical
+    path: "./rule_provider_oc/Youtube.yaml"
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/YouTube.yaml
+    interval: 100
+  Speedtest:
+    type: http
+    behavior: classical
+    path: "./rule_provider_oc/Speedtest.yaml"
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/Speedtest.yaml
+    interval: 100
+  18+:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/porn.yaml
+    path: "./rule_provider_oc/porn.yaml"
+    interval: 100
+  TikTok:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/TikTok.yaml
+    path: "./rule_provider_oc/TikTok.yaml"
+    interval: 100
+  Telegram:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/Telegram.yaml
+    path: "./rule_provider_oc/Telegram.yaml"
+    interval: 100
+proxy-providers:
+  Meong1:
+    type: http
+    path: "./rule_provider_oc/kiko/2.yaml"
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/kiko/2.yaml
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 100
+  Meong2:
+    type: http
+    path: "./rule_provider_oc/kiko/3.yaml"
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/kiko/3.yaml
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 100
+  Meong3:
+    type: http
+    path: "./rule_provider_oc/kiko/4.yaml"
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/kiko/4.yaml
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 100
+  Meong4:
+    type: http
+    path: "./rule_provider_oc/kiko/5.yaml"
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/kiko/5.yaml
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 100
+  Meong5:
+    type: http
+    path: "./rule_provider_oc/kiko/6.yaml"
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/kiko/6.yaml
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 100
+  Meong6:
+    type: http
+    path: "./rule_provider_oc/kiko/7.yaml"
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/kiko/7.yaml
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 100
+proxy-groups:
+- name: LB Akun1
+  type: load-balance
+  strategy: round-robin
+  disable-udp: false
+  use:
+  - Meong1
+- name: LB Akun2
+  type: load-balance
+  strategy: round-robin
+  disable-udp: false
+  use:
+  - Meong2
+- name: LB Akun3
+  type: load-balance
+  strategy: round-robin
+  disable-udp: false
+  use:
+  - Meong3
+- name: LB Akun4
+  type: load-balance
+  strategy: round-robin
+  disable-udp: false
+  use:
+  - Meong4
+  url: http://www.gstatic.com/generate_204
+  interval: '300'
+- name: LB Akun5
+  type: load-balance
+  strategy: round-robin
+  disable-udp: false
+  use:
+  - Meong5
+- name: LB Akun6
+  type: load-balance
+  strategy: round-robin
+  disable-udp: false
+  use:
+  - Meong6
+  url: http://www.gstatic.com/generate_204
+  interval: '300'
+- name: PING
+  type: url-test
+  disable-udp: false
+  use:
+  - Meong1
+  - Meong2
+  - Meong3
+  - Meong4
+  - Meong5
+  - Meong6
+  url: http://www.gstatic.com/generate_204
+  interval: '300'
+  tolerance: '100'
+- name: Instagram
+  type: select
+  use:
+  - Meong1
+  - Meong2
+  - Meong3
+  - Meong4
+  - Meong5
+  - Meong6
+  proxies:
+  - LB Akun1
+  - LB Akun2
+  - LB Akun3
+  - LB Akun4
+  - LB Akun5
+  - LB Akun6
+  - PING
+  - REJECT
+- name: Bank
+  type: select
+  use:
+  - Meong1
+  - Meong2
+  - Meong3
+  - Meong4
+  - Meong5
+  - Meong6
+  proxies:
+  - LB Akun1
+  - LB Akun2
+  - LB Akun3
+  - LB Akun4
+  - LB Akun5
+  - LB Akun6
+  - PING
+  - REJECT
+- name: Facebook
+  type: select
+  use:
+  - Meong1
+  - Meong2
+  - Meong3
+  - Meong4
+  - Meong5
+  - Meong6
+  proxies:
+  - LB Akun1
+  - LB Akun2
+  - LB Akun3
+  - LB Akun4
+  - LB Akun5
+  - LB Akun6
+  - PING
+  - REJECT
+- name: TikTok
+  type: select
+  use:
+  - Meong1
+  - Meong2
+  - Meong3
+  - Meong4
+  - Meong5
+  - Meong6
+  proxies:
+  - LB Akun1
+  - LB Akun2
+  - LB Akun3
+  - LB Akun4
+  - LB Akun5
+  - LB Akun6
+  - PING
+  - REJECT
+- name: Twitter
+  type: select
+  use:
+  - Meong1
+  - Meong2
+  - Meong3
+  - Meong4
+  - Meong5
+  - Meong6
+  proxies:
+  - LB Akun1
+  - LB Akun2
+  - LB Akun3
+  - LB Akun4
+  - LB Akun5
+  - LB Akun6
+  - PING
+  - REJECT
+- name: Telegram
+  type: select
+  use:
+  - Meong1
+  - Meong2
+  - Meong3
+  - Meong4
+  - Meong5
+  - Meong6
+  proxies:
+  - LB Akun1
+  - LB Akun2
+  - LB Akun3
+  - LB Akun4
+  - LB Akun5
+  - LB Akun6
+  - PING
+  - REJECT
+- name: YouTube
+  type: select
+  use:
+  - Meong1
+  - Meong2
+  - Meong3
+  - Meong4
+  - Meong5
+  - Meong6
+  proxies:
+  - LB Akun1
+  - LB Akun2
+  - LB Akun3
+  - LB Akun4
+  - LB Akun5
+  - LB Akun6
+  - PING
+  - REJECT
+- name: Speedtest
+  type: select
+  use:
+  - Meong1
+  - Meong2
+  - Meong3
+  - Meong4
+  - Meong5
+  - Meong6
+  proxies:
+  - LB Akun1
+  - LB Akun2
+  - LB Akun3
+  - LB Akun4
+  - LB Akun5
+  - LB Akun6
+  - PING
+  - REJECT
+- name: 18+
+  type: select
+  disable-udp: false
+  use:
+  proxies:
+  - REJECT
+- name: Akrb
+  type: select
+  disable-udp: false
+  use:
+  - Meong1
+  - Meong2
+  - Meong3
+  - Meong4
+  - Meong5
+  - Meong6
+  proxies:
+  - LB Akun1
+  - LB Akun2
+  - LB Akun3
+  - LB Akun4
+  - LB Akun5
+  - LB Akun6
+  - PING
+  - REJECT
+dns:
+  nameserver:
+  - 192.168.8.1
+  - 8.8.8.8
+  - 8.8.4.4
+  - https://dns.adguard.com/dns-query
+  - https://dns.google/dns-query
+  - tls://dns.adguard.com
+  - tls://dns.google
+  enable: true
+  ipv6: false
+  enhanced-mode: redir-host
+  listen: 0.0.0.0:7874
+  fake-ip-filter:
+  - "+.*"
+  default-nameserver:
+  - 192.168.9.1
+  - 192.168.8.1
+  - 8.8.8.8
+  - 8.8.4.4
+redir-port: 7892
+tproxy-port: 7895
+port: 7890
+socks-port: 7891
+mixed-port: 7893
+mode: global
+log-level: silent
+allow-lan: true
+external-controller: 0.0.0.0:9090
+secret: reyre
+bind-address: "*"
+external-ui: "/usr/share/openclash/ui"
+ipv6: false
+tun:
+  enable: true
+  stack: system
+  device: utun
+  auto-route: false
+  auto-detect-interface: false
+  dns-hijack:
+  - tcp://any:53
+profile:
+  store-selected: true
+  store-fake-ip: true
+shortcuts:
+  TCPgames: network == 'tcp' and dst_port not in [21, 22, 23, 53, 80, 123, 143, 194,
+    443, 465, 587, 853, 993, 995, 998, 2052, 2053, 2082, 2083, 2086, 2095, 2096, 5222,
+    5228, 5229, 5230, 8080, 8443, 8880, 8883, 8888, 8889]
+  UDPgames: network == 'udp' and dst_port not in [21, 22, 23, 53, 80, 123, 143, 194,
+    443, 465, 587, 853, 993, 995, 998, 2052, 2053, 2082, 2083, 2086, 2095, 2096, 5222,
+    5228, 5229, 5230, 8080, 8443, 8880, 8883, 8888, 8889]
+  Speedtest: network == "tcp" and match_provider("rule_Speedtest")
+rules:
+- DST-PORT,7895,REJECT
+- DST-PORT,7892,REJECT
+- IP-CIDR,198.18.0.1/16,REJECT,no-resolve
+- DST-PORT,7895,REJECT
+- DST-PORT,7892,REJECT
+- IP-CIDR,198.18.0.1/16,REJECT,no-resolve
+- IP-CIDR,198.18.0.1/16,REJECT,no-resolve
+- RULE-SET,Bank,Bank
+- RULE-SET,Instagram,Instagram
+- RULE-SET,TikTok,TikTok
+- RULE-SET,Facebook,Facebook
+- RULE-SET,Twitter,Twitter
+- RULE-SET,YouTube,YouTube
+- RULE-SET,Speedtest,Speedtest
+- RULE-SET,Telegram,Telegram
+- RULE-SET,18+,REJECT
+- RULE-SET,ADS,REJECT
+- RULE-SET,Akrb,Akrb
+- MATCH,GLOBAL
+geodata-loader: memconservative
+tcp-concurrent: true
