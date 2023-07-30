@@ -9047,3 +9047,55 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
+- name: SGVIP695
+  server: zendesk1.grabtaxi.com	
+  port: 80
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP696
+  server: zendesk2.grabtaxi.com
+  port: 80
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP697
+  server: zendesk3.grabtaxi.com
+  port: 80
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP698
+  server: zendesk4.grabtaxi.com
+  port: 80
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
