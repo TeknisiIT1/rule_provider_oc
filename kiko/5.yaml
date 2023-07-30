@@ -6421,22 +6421,9 @@ proxies:
   sni: link.stg.gobiz.co.id
   skip-cert-verify: true
   udp: true
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP141
+- name: SGVIP585
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6447,7 +6434,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP142
+- name: SGVIP586
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6458,7 +6445,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP143
+- name: SGVIP587
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6469,7 +6456,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP144
+- name: SGVIP588
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6480,7 +6467,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP145
+- name: SGVIP589
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6491,7 +6478,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP146
+- name: SGVIP590
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6502,7 +6489,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP147
+- name: SGVIP591
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6513,7 +6500,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP148
+- name: SGVIP592
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6524,7 +6511,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP149
+- name: SGVIP593
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6535,7 +6522,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP150
+- name: SGVIP594
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6546,7 +6533,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP151
+- name: SGVIP595
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6557,7 +6544,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP152
+- name: SGVIP596
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6568,7 +6555,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP153
+- name: SGVIP597
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6579,7 +6566,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP154
+- name: SGVIP598
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6590,7 +6577,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP155
+- name: SGVIP599
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6601,7 +6588,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP156
+- name: SGVIP600
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6612,7 +6599,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP157
+- name: SGVIP601
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6623,7 +6610,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP158
+- name: SGVIP602
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6634,7 +6621,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP159
+- name: SGVIP603
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6645,7 +6632,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP160
+- name: SGVIP604
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6656,7 +6643,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP161
+- name: SGVIP605
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6667,7 +6654,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP162
+- name: SGVIP606
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6678,7 +6665,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP163
+- name: SGVIP607
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6689,7 +6676,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP164
+- name: SGVIP608
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6700,7 +6687,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP165
+- name: SGVIP609
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6711,7 +6698,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP166
+- name: SGVIP610
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6722,7 +6709,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP167
+- name: SGVIP611
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6733,7 +6720,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP168
+- name: SGVIP612
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6744,7 +6731,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP169
+- name: SGVIP613
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6755,7 +6742,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP170
+- name: SGVIP614
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6766,7 +6753,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP171
+- name: SGVIP615
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6777,7 +6764,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP172
+- name: SGVIP617
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6788,7 +6775,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP173
+- name: SGVIP618
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6799,7 +6786,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP174
+- name: SGVIP619
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6810,7 +6797,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP175
+- name: SGVIP620
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6821,7 +6808,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP176
+- name: SGVIP621
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6832,7 +6819,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP177
+- name: SGVIP622
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6843,7 +6830,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP178
+- name: SGVIP623
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6854,7 +6841,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP179
+- name: SGVIP624
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6865,7 +6852,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP180
+- name: SGVIP625
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6876,7 +6863,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP181
+- name: SGVIP626
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6887,7 +6874,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP182
+- name: SGVIP627
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6898,7 +6885,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP183
+- name: SGVIP628
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6909,7 +6896,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP184
+- name: SGVIP629
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6920,7 +6907,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP185
+- name: SGVIP630
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6931,7 +6918,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP186
+- name: SGVIP631
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6942,7 +6929,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP187
+- name: SGVIP632
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6953,7 +6940,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP188
+- name: SGVIP633
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6964,7 +6951,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP189
+- name: SGVIP634
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6975,7 +6962,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP190
+- name: SGVIP635
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6986,7 +6973,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP191
+- name: SGVIP636
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -6997,7 +6984,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP192
+- name: SGVIP637
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7008,7 +6995,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP193
+- name: SGVIP638
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7019,7 +7006,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP194
+- name: SGVIP639
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7030,7 +7017,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP195
+- name: SGVIP640
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7041,7 +7028,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP196
+- name: SGVIP641
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7052,7 +7039,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP197
+- name: SGVIP642
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7063,7 +7050,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP198
+- name: SGVIP643
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7074,7 +7061,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP199
+- name: SGVIP644
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7085,7 +7072,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP200
+- name: SGVIP645
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7096,7 +7083,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP201
+- name: SGVIP646
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7107,7 +7094,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP202
+- name: SGVIP647
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7118,7 +7105,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP203
+- name: SGVIP648
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7129,7 +7116,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP204
+- name: SGVIP649
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7140,7 +7127,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP205
+- name: SGVIP650
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7151,7 +7138,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP206
+- name: SGVIP651
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7162,7 +7149,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP207
+- name: SGVIP652
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7173,7 +7160,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP208
+- name: SGVIP653
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7184,7 +7171,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP209
+- name: SGVIP654
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7195,7 +7182,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP210
+- name: SGVIP655
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7206,7 +7193,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP211
+- name: SGVIP656
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7217,7 +7204,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP212
+- name: SGVIP657
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7228,7 +7215,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP213
+- name: SGVIP658
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7239,7 +7226,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP214
+- name: SGVIP659
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7250,7 +7237,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP215
+- name: SGVIP660
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7261,7 +7248,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP216
+- name: SGVIP661
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7272,7 +7259,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP217
+- name: SGVIP662
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7283,7 +7270,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP218
+- name: SGVIP663
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7294,7 +7281,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP219
+- name: SGVIP664
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7305,7 +7292,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP220
+- name: SGVIP665
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7316,7 +7303,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP221
+- name: SGVIP666
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7327,7 +7314,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP222
+- name: SGVIP667
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7338,7 +7325,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP223
+- name: SGVIP668
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7349,7 +7336,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP224
+- name: SGVIP669
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7360,7 +7347,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP225
+- name: SGVIP670
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7371,7 +7358,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP226
+- name: SGVIP671
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7382,7 +7369,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP227
+- name: SGVIP672
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7393,7 +7380,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP228
+- name: SGVIP673
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7404,7 +7391,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP229
+- name: SGVIP674
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7415,7 +7402,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP230
+- name: SGVIP675
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7426,7 +7413,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP231
+- name: SGVIP676
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7437,7 +7424,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP232
+- name: SGVIP677
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7448,7 +7435,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP233
+- name: SGVIP678
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7459,7 +7446,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP234
+- name: SGVIP679
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7470,7 +7457,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP235
+- name: SGVIP680
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7481,7 +7468,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP236
+- name: SGVIP681
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7492,7 +7479,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP237
+- name: SGVIP682
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7503,7 +7490,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP238
+- name: SGVIP683
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7514,7 +7501,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP239
+- name: SGVIP684
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7525,7 +7512,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP240
+- name: SGVIP685
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7536,7 +7523,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP241
+- name: SGVIP686
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7547,7 +7534,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP242
+- name: SGVIP687
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7558,7 +7545,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP243
+- name: SGVIP688
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7569,7 +7556,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP244
+- name: SGVIP689
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7580,7 +7567,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP245
+- name: SGVIP690
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7591,7 +7578,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP246
+- name: SGVIP691
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7602,7 +7589,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP247
+- name: SGVIP692
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7613,7 +7600,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP248
+- name: SGVIP693
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7624,7 +7611,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP249
+- name: SGVIP694
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7635,7 +7622,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP250
+- name: SGVIP695
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7646,7 +7633,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP251
+- name: SGVIP696
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7657,7 +7644,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP252
+- name: SGVIP697
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7668,7 +7655,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP253
+- name: SGVIP698
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7679,7 +7666,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP254
+- name: SGVIP699
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7690,7 +7677,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP255
+- name: SGVIP700
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7701,7 +7688,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP256
+- name: SGVIP701
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7712,7 +7699,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP257
+- name: SGVIP702
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7723,13 +7710,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-	
-
--------------------------------------------------------
-
-
-
-- name: SGVIP36
+- name: SGVIP703
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7740,7 +7721,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP37
+- name: SGVIP704
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7751,7 +7732,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP38
+- name: SGVIP705
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7762,7 +7743,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP39
+- name: SGVIP706
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7773,7 +7754,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP40
+- name: SGVIP707
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7784,7 +7765,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP41
+- name: SGVIP708
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7795,7 +7776,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP42
+- name: SGVIP709
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7806,7 +7787,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP43
+- name: SGVIP710
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7817,7 +7798,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP44
+- name: SGVIP711
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7828,7 +7809,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP45
+- name: SGVIP712
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7839,7 +7820,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP46
+- name: SGVIP713
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7850,7 +7831,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP47
+- name: SGVIP714
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7861,7 +7842,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP48
+- name: SGVIP715
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7872,7 +7853,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP49
+- name: SGVIP716
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7883,7 +7864,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP50
+- name: SGVIP717
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7894,7 +7875,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP51
+- name: SGVIP718
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7905,7 +7886,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP52
+- name: SGVIP719
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7916,7 +7897,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP53
+- name: SGVIP720
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7927,7 +7908,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP54
+- name: SGVIP721
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7938,7 +7919,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP55
+- name: SGVIP722
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7949,7 +7930,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP56
+- name: SGVIP723
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7960,7 +7941,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP57
+- name: SGVIP724
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7971,7 +7952,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP58
+- name: SGVIP725
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7982,7 +7963,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP59
+- name: SGVIP726
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -7993,7 +7974,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP60
+- name: SGVIP727
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8004,7 +7985,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP61
+- name: SGVIP728
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8015,7 +7996,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP62
+- name: SGVIP729
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8026,7 +8007,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP63
+- name: SGVIP730
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8037,7 +8018,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP64
+- name: SGVIP731
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8048,7 +8029,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP65
+- name: SGVIP732
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8059,7 +8040,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP66
+- name: SGVIP733
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8070,7 +8051,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP67
+- name: SGVIP734
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8081,7 +8062,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP68
+- name: SGVIP735
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8092,7 +8073,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP69
+- name: SGVIP736
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8103,7 +8084,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP70
+- name: SGVIP737
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8114,7 +8095,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP71
+- name: SGVIP738
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8125,7 +8106,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP72
+- name: SGVIP739
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8136,7 +8117,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP73
+- name: SGVIP740
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8147,7 +8128,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP74
+- name: SGVIP741
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8158,7 +8139,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP75
+- name: SGVIP742
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8169,7 +8150,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP76
+- name: SGVIP743
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8180,7 +8161,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP77
+- name: SGVIP744
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8191,7 +8172,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP78
+- name: SGVIP745
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8202,7 +8183,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP79
+- name: SGVIP746
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8213,7 +8194,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP80
+- name: SGVIP747
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8224,7 +8205,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP81
+- name: SGVIP748
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8235,7 +8216,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP82
+- name: SGVIP749
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8246,7 +8227,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP83
+- name: SGVIP750
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8257,7 +8238,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP84
+- name: SGVIP751
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8268,7 +8249,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP85
+- name: SGVIP752
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8279,7 +8260,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP86
+- name: SGVIP753
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8290,7 +8271,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP87
+- name: SGVIP754
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8301,7 +8282,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP88
+- name: SGVIP755
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8312,7 +8293,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP89
+- name: SGVIP756
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8323,7 +8304,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP90
+- name: SGVIP757
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8334,7 +8315,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP91
+- name: SGVIP758
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8345,7 +8326,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP92
+- name: SGVIP759
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8356,7 +8337,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP93
+- name: SGVIP760
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8367,7 +8348,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP94
+- name: SGVIP761
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8378,7 +8359,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP95
+- name: SGVIP762
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8389,7 +8370,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP96
+- name: SGVIP763
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8400,7 +8381,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP97
+- name: SGVIP764
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8411,7 +8392,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP98
+- name: SGVIP765
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8422,7 +8403,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP99
+- name: SGVIP766
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8433,7 +8414,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP100
+- name: SGVIP767
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8444,7 +8425,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP101
+- name: SGVIP768
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8455,7 +8436,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP102
+- name: SGVIP769
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8466,7 +8447,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP103
+- name: SGVIP770
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8477,7 +8458,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP104
+- name: SGVIP771
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8488,7 +8469,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP105
+- name: SGVIP772
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8499,7 +8480,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP106
+- name: SGVIP773
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8510,7 +8491,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP107
+- name: SGVIP774
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8521,7 +8502,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP108
+- name: SGVIP775
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8532,7 +8513,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP109
+- name: SGVIP776
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8543,7 +8524,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP110
+- name: SGVIP777
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8554,7 +8535,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP111
+- name: SGVIP778
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8565,7 +8546,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP112
+- name: SGVIP779
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8576,7 +8557,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP113
+- name: SGVIP780
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8587,7 +8568,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP114
+- name: SGVIP781
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8598,7 +8579,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP115
+- name: SGVIP782
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8609,7 +8590,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP116
+- name: SGVIP783
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8620,7 +8601,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP117
+- name: SGVIP784
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8631,7 +8612,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP118
+- name: SGVIP785
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8642,7 +8623,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP119
+- name: SGVIP786
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8653,7 +8634,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP120
+- name: SGVIP787
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8664,7 +8645,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP121
+- name: SGVIP788
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8675,7 +8656,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP122
+- name: SGVIP789
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8686,7 +8667,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP123
+- name: SGVIP790
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8697,7 +8678,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP124
+- name: SGVIP791
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8708,7 +8689,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP125
+- name: SGVIP792
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8719,7 +8700,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP126
+- name: SGVIP793
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8730,7 +8711,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc	
-- name: SGVIP123
+- name: SGVIP794
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8741,7 +8722,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP124
+- name: SGVIP795
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8752,7 +8733,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP125
+- name: SGVIP796
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
@@ -8763,7 +8744,7 @@ proxies:
   udp: true
   grpc-opts:
     grpc-service-name: netztrojangrpc
-- name: SGVIP126
+- name: SGVIP797
   server: jos21.surgavpnjos.my.id
   port: 80
   type: trojan
