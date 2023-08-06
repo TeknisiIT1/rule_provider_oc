@@ -151,7 +151,7 @@ rules:
 - DST-PORT,7892,REJECT
 - IP-CIDR,198.18.0.1/16,REJECT,no-resolve
 - IP-CIDR,198.18.0.1/16,REJECT,no-resolve
-- RULE-SET,Sosmed,Sosmed1
+- RULE-SET,Sosmed1,Sosmed1
 - RULE-SET,Bank,Bank
 - RULE-SET,Speedtest,Speedtest
 - RULE-SET,18+,REJECT
