@@ -33,6 +33,11 @@ payload:
   - DST-PORT,5228
   - DST-PORT,5222
   - DST-PORT,38211
+  # > snackvideo
+  - DOMAIN-SUFFIX,snackvideo.comm
+  - DOMAIN-SUFFIX,snackvideo.in
+  - DOMAIN-SUFFIX,uvfuns.com
+  - DOMAIN-SUFFIX,myqcloud.com
   # > MICROSOFT
   - DOMAIN-SUFFIX,smartscreen-prod.microsoft.com
   - DOMAIN-SUFFIX,self.events.data.microsoft.com
@@ -961,8 +966,3 @@ payload:
   - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-KEYWORD,-tiktokcdn-com
-# > snackvideo
-  - DOMAIN-SUFFIX,snackvideo.comm
-  - DOMAIN-SUFFIX,snackvideo.in
-  - DOMAIN-SUFFIX,uvfuns.com
-  - DOMAIN-SUFFIX,myqcloud.com
