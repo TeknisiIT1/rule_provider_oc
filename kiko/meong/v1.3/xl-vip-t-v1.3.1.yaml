@@ -1,6 +1,12 @@
 ---
 rule-providers:
- Sosmed1:
+  Akrb:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/Akrab.yaml
+    path: "./rule_provider_oc/Akrab.yaml"
+    interval: 100
+  Sosmed1:
     type: http
     behavior: classical
     url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/Sosmed1.yaml
@@ -18,6 +24,30 @@ rule-providers:
     url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/bank.yaml
     path: "./rule_provider_oc/bank.yaml"
     interval: 100
+  Instagram:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/Instagram.yaml
+    path: "./rule_provider_oc/Instagram.yaml"
+    interval: 100
+  Facebook:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/Facebook.yaml
+    path: "./rule_provider_oc/Facebook.yaml"
+    interval: 100
+  Twitter:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/Twitter.yaml
+    path: "./rule_provider_oc/Twitter.yaml"
+    interval: 100
+  YouTube:
+    type: http
+    behavior: classical
+    path: "./rule_provider_oc/Youtube.yaml"
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/YouTube.yaml
+    interval: 100
   Speedtest:
     type: http
     behavior: classical
@@ -29,6 +59,18 @@ rule-providers:
     behavior: domain
     url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/porn.yaml
     path: "./rule_provider_oc/porn.yaml"
+    interval: 100
+  TikTok:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/TikTok.yaml
+    path: "./rule_provider_oc/TikTok.yaml"
+    interval: 100
+  Telegram:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/Telegram.yaml
+    path: "./rule_provider_oc/Telegram.yaml"
     interval: 100
 proxy-providers:
   Meong1:
@@ -63,7 +105,7 @@ proxy-groups:
   proxies:
   - LB Akun1
   - PING
-- name: ADS
+- name: Instagram
   type: select
   use:
   - Meong1
@@ -71,6 +113,41 @@ proxy-groups:
   - LB Akun1
   - PING
 - name: Bank
+  type: select
+  use:
+  - Meong1
+  proxies:
+  - LB Akun1
+  - PING
+- name: Facebook
+  type: select
+  use:
+  - Meong1
+  proxies:
+  - LB Akun1
+  - PING
+- name: TikTok
+  type: select
+  use:
+  - Meong1
+  proxies:
+  - LB Akun1
+  - PING
+- name: Twitter
+  type: select
+  use:
+  - Meong1
+  proxies:
+  - LB Akun1
+  - PING
+- name: Telegram
+  type: select
+  use:
+  - Meong1
+  proxies:
+  - LB Akun1
+  - PING
+- name: YouTube
   type: select
   use:
   - Meong1
@@ -91,6 +168,14 @@ proxy-groups:
   - Meong1
   proxies:
   - REJECT
+- name: Akrb
+  type: select
+  disable-udp: false
+  use:
+  - Meong1
+  proxies:
+  - LB Akun1
+  - PING
 dns:
   nameserver:
   - 192.168.8.1
@@ -153,9 +238,16 @@ rules:
 - IP-CIDR,198.18.0.1/16,REJECT,no-resolve
 - RULE-SET,Sosmed1,Sosmed1
 - RULE-SET,Bank,Bank
+- RULE-SET,Instagram,Instagram
+- RULE-SET,TikTok,TikTok
+- RULE-SET,Facebook,Facebook
+- RULE-SET,Twitter,Twitter
+- RULE-SET,YouTube,YouTube
 - RULE-SET,Speedtest,Speedtest
+- RULE-SET,Telegram,Telegram
 - RULE-SET,18+,REJECT
 - RULE-SET,ADS,REJECT
+- RULE-SET,Akrb,Akrb
 - MATCH,GLOBAL
 geodata-loader: memconservative
 tcp-concurrent: true
