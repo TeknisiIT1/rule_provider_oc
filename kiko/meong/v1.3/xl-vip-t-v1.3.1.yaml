@@ -1,6 +1,6 @@
 ---
 rule-providers:
- Sosmed:
+ Sosmed1:
     type: http
     behavior: classical
     url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/Sosmed1.yaml
@@ -56,7 +56,7 @@ proxy-groups:
   url: http://www.gstatic.com/generate_204
   interval: '300'
   tolerance: '100'
-- name: Sosmed
+- name: Sosmed1
   type: select
   use:
   - Meong1
@@ -151,7 +151,7 @@ rules:
 - DST-PORT,7892,REJECT
 - IP-CIDR,198.18.0.1/16,REJECT,no-resolve
 - IP-CIDR,198.18.0.1/16,REJECT,no-resolve
-- RULE-SET,Sosmed,Sosmed
+- RULE-SET,Sosmed,Sosmed1
 - RULE-SET,Bank,Bank
 - RULE-SET,Speedtest,Speedtest
 - RULE-SET,18+,REJECT
