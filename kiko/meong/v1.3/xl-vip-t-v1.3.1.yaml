@@ -236,7 +236,6 @@ rules:
 - DST-PORT,7892,REJECT
 - IP-CIDR,198.18.0.1/16,REJECT,no-resolve
 - IP-CIDR,198.18.0.1/16,REJECT,no-resolve
-- RULE-SET,Sosmed1,Sosmed1
 - RULE-SET,Bank,Bank
 - RULE-SET,Instagram,Instagram
 - RULE-SET,TikTok,TikTok
@@ -248,6 +247,7 @@ rules:
 - RULE-SET,18+,REJECT
 - RULE-SET,ADS,REJECT
 - RULE-SET,Akrb,Akrb
+- RULE-SET,Sosmed1,Sosmed1
 - MATCH,GLOBAL
 geodata-loader: memconservative
 tcp-concurrent: true
