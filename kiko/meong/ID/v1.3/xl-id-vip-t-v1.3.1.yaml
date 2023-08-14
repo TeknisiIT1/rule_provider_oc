@@ -75,7 +75,7 @@ rule-providers:
 proxy-providers:
   Meong1:
     type: http
-    path: "./rule_provider_oc/kiko/1.yaml"
+    path: "./rule_provider_oc/kiko/meong/ID/v1.3.yaml"
     url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/kiko/meong/ID/id1.yaml
     health-check:
       enable: true
