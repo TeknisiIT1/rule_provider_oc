@@ -3,7 +3,7 @@ proxies:
     server: 104.16.51.111
     port: 80
     type: vmess
-    uuid: 9a4147cf-4d66-4389-b62b-e2914791d3a4
+    uuid: 35917883-ae4e-4fae-bad0-6775ec2b9859
     alterId: 0
     cipher: auto
     tls: false
@@ -11,7 +11,7 @@ proxies:
     servername: support.zoom.us
     network: ws
     ws-opts:
-      path: http://kiko13.pisces.my.id/vmess
+      path: http://jos23.surgavpnjos.my.id/vmess
       headers:
         Host: zoomcares.zoom.us
     udp: true
@@ -19,7 +19,7 @@ proxies:
     server: 104.18.18.242
     port: 80
     type: vmess
-    uuid: 9a4147cf-4d66-4389-b62b-e2914791d3a4
+    uuid: 35917883-ae4e-4fae-bad0-6775ec2b9859
     alterId: 0
     cipher: auto
     tls: false
@@ -27,7 +27,7 @@ proxies:
     servername: partner.zoom.us
     network: ws
     ws-opts:
-      path: http://kiko13.pisces.my.id/vmess
+      path: http://jos23.surgavpnjos.my.id/vmess
       headers:
         Host: beta.zoom.us
     udp: true
