@@ -6,6 +6,18 @@ rule-providers:
     url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/Akrab.yaml
     path: "./rule_provider_oc/Akrab.yaml"
     interval: 100
+  Gaming_Domain:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/Gaming_domain.yaml
+    path: "./rule_provider_oc/Gaming_domain.yaml"
+    interval: 100
+  Sosmed1:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/Sosmed1.yaml
+    path: "./rule_provider_oc/Sosmed1.yaml"
+    interval: 100
   ADS:
     type: http
     behavior: classical
@@ -92,6 +104,20 @@ proxy-groups:
   url: http://www.gstatic.com/generate_204
   interval: '300'
   tolerance: '100'
+- name: Sosmed1
+  type: select
+  use:
+  - Meong1
+  proxies:
+  - LB Akun1
+  - PING
+- name: Gaming_Domain
+  type: select
+  use:
+  - Meong1
+  proxies:
+  - LB Akun1
+  - PING
 - name: Instagram
   type: select
   use:
@@ -234,6 +260,8 @@ rules:
 - RULE-SET,18+,REJECT
 - RULE-SET,ADS,REJECT
 - RULE-SET,Akrb,Akrb
+- RULE-SET,Sosmed1,Sosmed1
+- RULE-SET,Gaming_Domain,Gaming_Domain
 - MATCH,GLOBAL
 geodata-loader: memconservative
 tcp-concurrent: true
