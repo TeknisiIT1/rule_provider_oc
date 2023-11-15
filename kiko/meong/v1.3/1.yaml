@@ -15,7 +15,7 @@ rule-providers:
   Sosmed:
     type: http
     behavior: classical
-    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/Sosmed1.yaml
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/sosmed.yaml
     path: "./rule_provider_oc/Sosmed1.yaml"
     interval: 100
   ADS:
