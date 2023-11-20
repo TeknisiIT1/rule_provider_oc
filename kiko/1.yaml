@@ -9307,4 +9307,29 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
-
+- name: SGVIP716
+  server: 104.16.51.111
+  port: 80
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: support.zoom.us
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: http://jos21.surgavpnjos.my.id/netztrojan
+  headers:
+    Host: zoomcares.zoom.us
+- name: SGVIP717
+  server: 104.18.18.242
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: partner.zoom.us
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: http://jos21.surgavpnjos.my.id/netztrojan
+  headers:
+    Host: beta.zoom.us
