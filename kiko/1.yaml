@@ -9322,7 +9322,7 @@ proxies:
     Host: zoomcares.zoom.us
 - name: SGVIP717
   server: 104.18.18.242
-  port: 443
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
