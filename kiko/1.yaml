@@ -3380,7 +3380,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP260
-  server: retacrithcp.com	
+  server: retacrithcp.com 
   port: 443
   type: trojan
   password: trglobalvips1
@@ -4862,7 +4862,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP373
-  server: ciao.cleverism.com	
+  server: ciao.cleverism.com  
   port: 443
   type: trojan
   password: trglobalvips1
@@ -5005,7 +5005,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP384
-  server: monitors.kno2fy.com	
+  server: monitors.kno2fy.com 
   port: 443
   type: trojan
   password: trglobalvips1
@@ -5161,7 +5161,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP396
-  server: eu.staging.fintech.deliveryhero.com	
+  server: eu.staging.fintech.deliveryhero.com 
   port: 443
   type: trojan
   password: trglobalvips1
@@ -5538,7 +5538,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP425
-  server: learn.ganecadigital.com	
+  server: learn.ganecadigital.com 
   port: 443
   type: trojan
   password: trglobalvips1
@@ -5915,7 +5915,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP454
-  server: www.qiscus.com	
+  server: www.qiscus.com  
   port: 443
   type: trojan
   password: trglobalvips1
@@ -6071,7 +6071,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP466
-  server: cdn.megacalzado.com	
+  server: cdn.megacalzado.com 
   port: 443
   type: trojan
   password: trglobalvips1
@@ -6396,7 +6396,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP491
-  server: media.examgyani.com	
+  server: media.examgyani.com 
   port: 443
   type: trojan
   password: trglobalvips1
@@ -6513,7 +6513,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP500
-  server: www.xlaxiata.co.id	
+  server: www.xlaxiata.co.id  
   port: 443
   type: trojan
   password: trglobalvips1
@@ -6721,7 +6721,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP516
-  server: business.blibli.com	
+  server: business.blibli.com 
   port: 443
   type: trojan
   password: trglobalvips1
@@ -6838,7 +6838,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP525
-  server: lkpp.blibli.com	
+  server: lkpp.blibli.com 
   port: 443
   type: trojan
   password: trglobalvips1
@@ -6994,7 +6994,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP537
-  server: stg.gobiz.co.id	
+  server: stg.gobiz.co.id 
   port: 443
   type: trojan
   password: trglobalvips1
@@ -7111,7 +7111,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP546
-  server: events.discord.com	
+  server: events.discord.com  
   port: 443
   type: trojan
   password: trglobalvips1
@@ -7332,7 +7332,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP563
-  server: ablink.alerts.udemy.com	
+  server: ablink.alerts.udemy.com 
   port: 443
   type: trojan
   password: trglobalvips1
@@ -7449,7 +7449,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP572
-  server: coding-exercises.udemy.com	
+  server: coding-exercises.udemy.com  
   port: 443
   type: trojan
   password: trglobalvips1
@@ -7462,7 +7462,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP573
-  server: copyright.udemy.com	
+  server: copyright.udemy.com 
   port: 443
   type: trojan
   password: trglobalvips1
@@ -7592,7 +7592,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP583
-  server: cdn.appsflyer.com	
+  server: cdn.appsflyer.com 
   port: 443
   type: trojan
   password: trglobalvips1
@@ -7618,7 +7618,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP585
-  server: cdnappiconstest.appsflyer.com	
+  server: cdnappiconstest.appsflyer.com 
   port: 443
   type: trojan
   password: trglobalvips1
@@ -7722,7 +7722,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP593
-  server: app-assets.nimo.tv	
+  server: app-assets.nimo.tv  
   port: 443
   type: trojan
   password: trglobalvips1
@@ -7735,7 +7735,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP594
-  server: article.nimo.tv	
+  server: article.nimo.tv 
   port: 443
   type: trojan
   password: trglobalvips1
@@ -7774,7 +7774,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP597
-  server: cftxvid.vod.nimo.tv	
+  server: cftxvid.vod.nimo.tv 
   port: 443
   type: trojan
   password: trglobalvips1
@@ -7969,7 +7969,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP612
-  server: img-adx.op-mobile.opera.com	
+  server: img-adx.op-mobile.opera.com 
   port: 443
   type: trojan
   password: trglobalvips1
@@ -8047,7 +8047,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP618
-  server: odsp-quic.adx.opera.com	
+  server: odsp-quic.adx.opera.com 
   port: 443
   type: trojan
   password: trglobalvips1
@@ -8073,7 +8073,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP620
-  server: odsp-test.op-mobile.opera.com	
+  server: odsp-test.op-mobile.opera.com 
   port: 443
   type: trojan
   password: trglobalvips1
@@ -8437,7 +8437,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP648
-  server: docs.supersoccer.tv	
+  server: docs.supersoccer.tv 
   port: 443
   type: trojan
   password: trglobalvips1
@@ -8645,7 +8645,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP664
-  server: experimental.speedtest.net	
+  server: experimental.speedtest.net  
   port: 443
   type: trojan
   password: trglobalvips1
@@ -8749,7 +8749,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP672
-  server: verify.medallia.com	
+  server: verify.medallia.com 
   port: 443
   type: trojan
   password: trglobalvips1
@@ -8879,7 +8879,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP682
-  server: marketplacefront-cf.zoom.us	
+  server: marketplacefront-cf.zoom.us 
   port: 443
   type: trojan
   password: trglobalvips1
@@ -8918,7 +8918,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP685
-  server: dgwib.duniagames.co.id	
+  server: dgwib.duniagames.co.id  
   port: 443
   type: trojan
   password: trglobalvips1
@@ -8957,7 +8957,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP688
-  server: stage5.duniagames.co.id	
+  server: stage5.duniagames.co.id 
   port: 443
   type: trojan
   password: trglobalvips1
@@ -8996,7 +8996,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP691
-  server: stage.trueid.id	
+  server: stage.trueid.id 
   port: 443
   type: trojan
   password: trglobalvips1
@@ -9035,7 +9035,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP694
-  server: static-stage.trueid.id	
+  server: static-stage.trueid.id  
   port: 443
   type: trojan
   password: trglobalvips1
@@ -9048,7 +9048,7 @@ proxies:
   headers:
     Host: jos21.surgavpnjos.my.id
 - name: SGVIP695
-  server: zendesk1.grabtaxi.com	
+  server: zendesk1.grabtaxi.com 
   port: 443
   type: trojan
   password: trglobalvips1
@@ -9297,6 +9297,162 @@ proxies:
 - name: SGVIP715
   server: duniagames.co.id
   port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP716
+  server: 104.21.235.171
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP717
+  server: cdnodeb.visionplus.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP718
+  server: api.visionplus.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP719
+  server: 104.21.233.134
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP720
+  server: 172.67.192.40
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP721
+  server: 104.18.225.52
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP722
+  server: 104.21.235.171
+  port: 80
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP723
+  server: cdnodeb.visionplus.id
+  port: 80
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP724
+  server: api.visionplus.id
+  port: 80
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP725
+  server: 104.21.233.134
+  port: 80
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP726
+  server: 172.67.192.40
+  port: 80
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP727
+  server: 104.18.225.52
+  port: 80
   type: trojan
   password: trglobalvips1
   network: ws
