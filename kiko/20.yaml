@@ -9307,3 +9307,159 @@ proxies:
     path: /trojan-ws
   headers:
     Host: vpn2.networkcloud.my.id
+- name: SGVIP716
+  server: 104.21.235.171
+  port: 443
+  type: trojan
+  password: c6988cbb-0763-470a-b0f7-97f4c6c93a16
+  network: ws
+  sni: vpn2.networkcloud.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: vpn2.networkcloud.my.id
+- name: SGVIP717
+  server: cdnodeb.visionplus.id
+  port: 443
+  type: trojan
+  password: c6988cbb-0763-470a-b0f7-97f4c6c93a16
+  network: ws
+  sni: vpn2.networkcloud.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: vpn2.networkcloud.my.id
+- name: SGVIP718
+  server: api.visionplus.id
+  port: 443
+  type: trojan
+  password: c6988cbb-0763-470a-b0f7-97f4c6c93a16
+  network: ws
+  sni: vpn2.networkcloud.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: vpn2.networkcloud.my.id
+- name: SGVIP719
+  server: 104.21.233.134
+  port: 443
+  type: trojan
+  password: c6988cbb-0763-470a-b0f7-97f4c6c93a16
+  network: ws
+  sni: vpn2.networkcloud.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: vpn2.networkcloud.my.id
+- name: SGVIP720
+  server: 172.67.192.40
+  port: 443
+  type: trojan
+  password: c6988cbb-0763-470a-b0f7-97f4c6c93a16
+  network: ws
+  sni: vpn2.networkcloud.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: vpn2.networkcloud.my.id
+- name: SGVIP721
+  server: 104.18.225.52
+  port: 443
+  type: trojan
+  password: c6988cbb-0763-470a-b0f7-97f4c6c93a16
+  network: ws
+  sni: vpn2.networkcloud.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: vpn2.networkcloud.my.id
+- name: SGVIP722
+  server: 104.21.235.171
+  port: 80
+  type: trojan
+  password: c6988cbb-0763-470a-b0f7-97f4c6c93a16
+  network: ws
+  sni: vpn2.networkcloud.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: vpn2.networkcloud.my.id
+- name: SGVIP723
+  server: cdnodeb.visionplus.id
+  port: 80
+  type: trojan
+  password: c6988cbb-0763-470a-b0f7-97f4c6c93a16
+  network: ws
+  sni: vpn2.networkcloud.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: vpn2.networkcloud.my.id
+- name: SGVIP724
+  server: api.visionplus.id
+  port: 80
+  type: trojan
+  password: c6988cbb-0763-470a-b0f7-97f4c6c93a16
+  network: ws
+  sni: vpn2.networkcloud.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: vpn2.networkcloud.my.id
+- name: SGVIP725
+  server: 104.21.233.134
+  port: 80
+  type: trojan
+  password: c6988cbb-0763-470a-b0f7-97f4c6c93a16
+  network: ws
+  sni: vpn2.networkcloud.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: vpn2.networkcloud.my.id
+- name: SGVIP726
+  server: 172.67.192.40
+  port: 80
+  type: trojan
+  password: c6988cbb-0763-470a-b0f7-97f4c6c93a16
+  network: ws
+  sni: vpn2.networkcloud.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: vpn2.networkcloud.my.id
+- name: SGVIP727
+  server: 104.18.225.52
+  port: 80
+  type: trojan
+  password: c6988cbb-0763-470a-b0f7-97f4c6c93a16
+  network: ws
+  sni: vpn2.networkcloud.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: vpn2.networkcloud.my.id
