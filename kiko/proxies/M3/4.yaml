@@ -1,0 +1,65 @@
+proxies:
+  - name: SGVIP1
+    server: zoomcares.zoom.us
+    port: 80
+    type: vmess
+    uuid: a74a8753-6ce7-4715-bc24-e3708ad77543
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: jos21.surgavpnjos.my.id
+    network: ws
+    ws-opts:
+      path: https://jos21.surgavpnjos.my.id/worryfree
+      headers:
+        Host: zoomcares.zoom.us
+    udp: true
+  - name: SGVIP2
+    server: partner.zoom.us
+    port: 80
+    type: vmess
+    uuid: a74a8753-6ce7-4715-bc24-e3708ad77543
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: jos21.surgavpnjos.my.id
+    network: ws
+    ws-opts:
+      path: https://jos21.surgavpnjos.my.id/worryfree
+      headers:
+        Host: partner.zoom.us
+    udp: true
+  - name: SGVIP3
+    server: sogood.linefriends.com
+    port: 80
+    type: vmess
+    uuid: a74a8753-6ce7-4715-bc24-e3708ad77543
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: jos21.surgavpnjos.my.id
+    network: ws
+    ws-opts:
+      path: http://jos21.surgavpnjos.my.id/worryfree
+      headers:
+        Host: sogood.linefriends.com
+    udp: true
+  - name: SGVIP4
+    server: sogood.linefriends.com
+    port: 80
+    type: vmess
+    uuid: a74a8753-6ce7-4715-bc24-e3708ad77543
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: jos21.surgavpnjos.my.id
+    network: ws
+    ws-opts:
+      path: http://jos21.surgavpnjos.my.id/worryfree
+      headers:
+        Host: sogood.linefriends.com
+    udp: true
