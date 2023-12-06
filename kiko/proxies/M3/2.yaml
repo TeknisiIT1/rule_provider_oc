@@ -2,7 +2,7 @@ proxies:
   - name: SGVIP1
     server: zoomcares.zoom.us
     port: 80
-    type: worryfree
+    type: vmess
     uuid: a74a8753-6ce7-4715-bc24-e3708ad77543
     alterId: 0
     cipher: auto
@@ -18,7 +18,7 @@ proxies:
   - name: SGVIP2
     server: partner.zoom.us
     port: 80
-    type: worryfree
+    type: vmess
     uuid: a74a8753-6ce7-4715-bc24-e3708ad77543
     alterId: 0
     cipher: auto
@@ -34,7 +34,7 @@ proxies:
   - name: SGVIP3
     server: sogood.linefriends.com
     port: 80
-    type: worryfree
+    type: vmess
     uuid: a74a8753-6ce7-4715-bc24-e3708ad77543
     alterId: 0
     cipher: auto
@@ -50,7 +50,7 @@ proxies:
   - name: SGVIP4
     server: sogood.linefriends.com
     port: 80
-    type: worryfree
+    type: vmess
     uuid: a74a8753-6ce7-4715-bc24-e3708ad77543
     alterId: 0
     cipher: auto
