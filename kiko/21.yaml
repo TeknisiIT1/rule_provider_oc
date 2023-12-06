@@ -3,7 +3,7 @@ proxies:
     server: zoomcares.zoom.us
     port: 80
     type: vmess
-    uuid: 0ae3fe3a-9bda-4644-a5b3-0d56dfba5dea
+    uuid: 66374936-8f9c-4cee-8b08-81c1e8333ded
     alterId: 0
     cipher: auto
     tls: false
@@ -11,7 +11,7 @@ proxies:
     servername: zoomcares.zoom.us
     network: ws
     ws-opts:
-      path: https://jos23.surgavpnjos.my.id/vmess
+      path: https://vpn2.networkcloud.my.id/vmess
       headers:
         Host: zoomcares.zoom.us
     udp: true
@@ -19,7 +19,7 @@ proxies:
     server: partner.zoom.us
     port: 80
     type: vmess
-    uuid: 0ae3fe3a-9bda-4644-a5b3-0d56dfba5dea
+    uuid: 66374936-8f9c-4cee-8b08-81c1e8333ded
     alterId: 0
     cipher: auto
     tls: false
@@ -27,7 +27,7 @@ proxies:
     servername: partner.zoom.us
     network: ws
     ws-opts:
-      path: https://jos23.surgavpnjos.my.id/vmess
+      path: https://vpn2.networkcloud.my.id/vmess
       headers:
         Host: partner.zoom.us
     udp: true
@@ -35,7 +35,7 @@ proxies:
     server: sogood.linefriends.com
     port: 80
     type: vmess
-    uuid: 0ae3fe3a-9bda-4644-a5b3-0d56dfba5dea
+    uuid: 66374936-8f9c-4cee-8b08-81c1e8333ded
     alterId: 0
     cipher: auto
     tls: false
@@ -43,7 +43,7 @@ proxies:
     servername: support.zoom.us
     network: ws
     ws-opts:
-      path: http://jos23.surgavpnjos.my.id/vmess
+      path: http://vpn2.networkcloud.my.id/vmess
       headers:
         Host: sogood.linefriends.com
     udp: true
@@ -51,7 +51,7 @@ proxies:
     server: sogood.linefriends.com
     port: 80
     type: vmess
-    uuid: 0ae3fe3a-9bda-4644-a5b3-0d56dfba5dea
+    uuid: 66374936-8f9c-4cee-8b08-81c1e8333ded
     alterId: 0
     cipher: auto
     tls: false
@@ -59,7 +59,7 @@ proxies:
     servername: partner.zoom.us
     network: ws
     ws-opts:
-      path: http://jos23.surgavpnjos.my.id/vmess
+      path: http://vpn2.networkcloud.my.id/vmess
       headers:
         Host: sogood.linefriends.com
     udp: true
