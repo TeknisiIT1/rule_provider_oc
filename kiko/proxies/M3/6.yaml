@@ -31,8 +31,8 @@ proxies:
       headers:
         Host: partner.zoom.us
     udp: true
-    - name: SGVIP3
-    server: 141.193.213.11
+  - name: SGVIP3
+    server: sogood.linefriends.com
     port: 80
     type: vmess
     uuid: 66374936-8f9c-4cee-8b08-81c1e8333ded
@@ -40,10 +40,26 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: support.zoom.us
+    servername: sogood.linefriends.com
     network: ws
     ws-opts:
       path: /http://vpn2.networkcloud.my.id/vmess
       headers:
-        Host: support.zoom.us
+        Host: sogood.linefriends.com
+    udp: true
+  - name: SGVIP4
+    server: sogood.linefriends.com
+    port: 80
+    type: vmess
+    uuid: 66374936-8f9c-4cee-8b08-81c1e8333ded
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sogood.linefriends.com
+    network: ws
+    ws-opts:
+      path: /http://vpn2.networkcloud.my.id/vmess
+      headers:
+        Host: sogood.linefriends.com
     udp: true
