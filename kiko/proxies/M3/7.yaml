@@ -1,0 +1,33 @@
+proxies:
+  - name: SGVIP1
+    server: devsupport.zoom.us
+    port: 80
+    type: vmess
+    uuid: fa29754c-55bf-4e6c-93a9-decf9074af96
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: devsupport.zoom.us
+    network: ws
+    ws-opts:
+      path: worryfree
+      headers:
+        Host: devsupport.zoom.us.jos21.surgavpnjos.my.id
+    udp: true
+  - name: SGVIP2
+    server: partner.zoom.us
+    port: 80
+    type: vmess
+    uuid: fa29754c-55bf-4e6c-93a9-decf9074af96
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: partner.zoom.us
+    network: ws
+    ws-opts:
+      path: worryfree
+      headers:
+        Host: partner.zoom.us.jos21.surgavpnjos.my.id
+    udp: true
