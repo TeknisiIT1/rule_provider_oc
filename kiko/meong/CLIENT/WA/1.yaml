@@ -81,7 +81,7 @@ rule-providers:
 proxy-providers:
   Meong1:
     type: http
-    path: "./rule_provider_oc/blob/main/kiko/proxies/CLIENT/1.yaml"
+    path: "./rule_provider_oc/kiko/proxies/CLIENT/1.yaml"
     url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/kiko/proxies/CLIENT/1.yaml
     health-check:
     health-check:
