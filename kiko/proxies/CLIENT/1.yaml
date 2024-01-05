@@ -1,0 +1,79 @@
+proxies:
+- name: SGVIP1
+  server: img.email1.vidio.com
+  port: 443
+  type: trojan
+  password: 1adda4bc-f551-4c0d-9ac1-3974081744f2
+  network: ws
+  sni: vpn2.networkcloud.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: vpn2.networkcloud.my.id
+- name: SGVIP2
+  server: img.email2.vidio.com
+  port: 443
+  type: trojan
+  password: 1adda4bc-f551-4c0d-9ac1-3974081744f2
+  network: ws
+  sni: vpn2.networkcloud.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: vpn2.networkcloud.my.id
+- name: SGVIP3
+  server: img.email3.vidio.com
+  port: 443
+  type: trojan
+  password: 1adda4bc-f551-4c0d-9ac1-3974081744f2
+  network: ws
+  sni: vpn2.networkcloud.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: vpn2.networkcloud.my.id
+- name: SGVIP4
+  server: quiz.vidio.com
+  port: 443
+  type: trojan
+  password: 1adda4bc-f551-4c0d-9ac1-3974081744f2
+  network: ws
+  sni: vpn2.networkcloud.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: vpn2.networkcloud.my.id
+- name: SGVIP5
+  server: quiz.int.vidio.com
+  port: 443
+  type: trojan
+  password: 1adda4bc-f551-4c0d-9ac1-3974081744f2
+  network: ws
+  sni: vpn2.networkcloud.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: vpn2.networkcloud.my.id
+- name: SGVIP6
+  server: quiz.staging.vidio.com
+  port: 443
+  type: trojan
+  password: 1adda4bc-f551-4c0d-9ac1-3974081744f2
+  network: ws
+  sni: vpn2.networkcloud.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: vpn2.networkcloud.my.id
