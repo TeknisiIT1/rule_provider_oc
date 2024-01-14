@@ -84,7 +84,6 @@ proxy-providers:
     path: "./rule_provider_oc/main/kiko/proxies/XL/1.yaml"
     url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/kiko/proxies/XL/1.yaml
     health-check:
-    health-check:
       enable: true
       url: http://www.gstatic.com/generate_204
       interval: 100
