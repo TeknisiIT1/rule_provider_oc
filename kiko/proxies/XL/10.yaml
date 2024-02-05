@@ -1,0 +1,61 @@
+proxies:
+  - name: SGVIP1
+    server: 104.18.225.52
+    port: 443
+    type: vless
+    uuid: a9c46203-1a9a-4958-8cea-71fc0ef3ea21
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vless1.netwoorkcloud.workers.dev
+    network: ws
+    ws-opts:
+      path: /?ed=2048
+      headers:
+        Host: vless1.netwoorkcloud.workers.dev
+    udp: true
+  - name: SGVIP2
+    server: api.myxl.xlaxiata.co.id
+    port: 443
+    type: vless
+    uuid: a9c46203-1a9a-4958-8cea-71fc0ef3ea21
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vless1.netwoorkcloud.workers.dev
+    network: ws
+    ws-opts:
+      path: /?ed=2048
+      headers:
+        Host: vless1.netwoorkcloud.workers.dev
+    udp: true
+  - name: SGVIP3
+    server: cms.jkt.ult.ext.xlaxiata.co.id
+    port: 443
+    type: vless
+    uuid: a9c46203-1a9a-4958-8cea-71fc0ef3ea21
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vless1.netwoorkcloud.workers.dev
+    network: ws
+    ws-opts:
+      path: /?ed=2048
+      headers:
+        Host: vless1.netwoorkcloud.workers.dev
+    udp: true
+  - name: SGVIP4
+    server: staticxl.ext.xlaxiata.co.id
+    port: 443
+    type: vless
+    uuid: a9c46203-1a9a-4958-8cea-71fc0ef3ea21
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: vless1.netwoorkcloud.workers.dev
+    network: ws
+    ws-opts:
+      path: /?ed=2048
+      headers:
+        Host: vless1.netwoorkcloud.workers.dev
+    udp: true
