@@ -7,12 +7,12 @@ proxies:
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: vless1.netwoorkcloud.workers.dev
+    servername: vless1.networkcloud.my.id
     network: ws
     ws-opts:
       path: /?ed=2048
       headers:
-        Host: vless1.netwoorkcloud.workers.dev
+        Host: vless1.networkcloud.my.id
     udp: true
   - name: SGVIP2
     server: api.myxl.xlaxiata.co.id
@@ -22,12 +22,12 @@ proxies:
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: vless1.netwoorkcloud.workers.dev
+    servername: vless1.networkcloud.my.id
     network: ws
     ws-opts:
       path: /?ed=2048
       headers:
-        Host: vless1.netwoorkcloud.workers.dev
+        Host: vless1.networkcloud.my.id
     udp: true
   - name: SGVIP3
     server: cms.jkt.ult.ext.xlaxiata.co.id
@@ -37,12 +37,12 @@ proxies:
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: vless1.netwoorkcloud.workers.dev
+    servername: vless1.networkcloud.my.id
     network: ws
     ws-opts:
       path: /?ed=2048
       headers:
-        Host: vless1.netwoorkcloud.workers.dev
+        Host: vless1.networkcloud.my.id
     udp: true
   - name: SGVIP4
     server: staticxl.ext.xlaxiata.co.id
@@ -52,10 +52,11 @@ proxies:
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: vless1.netwoorkcloud.workers.dev
+    servername: vless1.networkcloud.my.id
     network: ws
     ws-opts:
       path: /?ed=2048
       headers:
-        Host: vless1.netwoorkcloud.workers.dev
+        Host: vless1.networkcloud.my.id
     udp: true
+
