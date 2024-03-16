@@ -107,44 +107,72 @@ proxy-groups:
   type: url-test
   disable-udp: false
   use:
-  - LOAD BALANCE
+  - Meong1
+  - Meong2
   url: http://www.gstatic.com/generate_204
   interval: '300'
   tolerance: '100'
 - name: Gaming_Domain
   type: select
+  use:
+  - Meong1
+  - Meong2
   proxies:
   - LOAD BALANCE
 - name: Instagram
   type: select
+  use:
+  - Meong1
+  - Meong2
   proxies:
   - LOAD BALANCE
 - name: Bank
   type: select
+  use:
+  - Meong1
+  - Meong2
   proxies:
   - LOAD BALANCE
 - name: Facebook
   type: select
+  use:
+  - Meong1
+  - Meong2
   proxies:
   - LOAD BALANCE
 - name: TikTok
   type: select
+  use:
+  - Meong1
+  - Meong2
   proxies:
   - LOAD BALANCE
 - name: Twitter
   type: select
+  use:
+  - Meong1
+  - Meong2
   proxies:
   - LOAD BALANCE
 - name: Telegram
   type: select
+  use:
+  - Meong1
+  - Meong2
   proxies:
   - LOAD BALANCE
 - name: YouTube
   type: select
+  use:
+  - Meong1
+  - Meong2
   proxies:
   - LOAD BALANCE
 - name: Speedtest
   type: select
+  use:
+  - Meong1
+  - Meong2
   proxies:
   - LOAD BALANCE
 - name: 18+
@@ -155,6 +183,10 @@ proxy-groups:
 - name: Akrb
   type: select
   disable-udp: false
+  type: select
+  use:
+  - Meong1
+  - Meong2
   proxies:
   - LOAD BALANCE
 dns:
