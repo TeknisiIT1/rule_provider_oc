@@ -99,48 +99,67 @@ proxy-groups:
   - Meong2
   url: http://www.gstatic.com/generate_204
   interval: '300'
-- name: PING
-  type: url-test
-  disable-udp: false
-  use:
-  - UMUM
-  url: http://www.gstatic.com/generate_204
-  interval: '300'
-  tolerance: '100'
 - name: Gaming_Domain
   type: select
+  use:
+  - Meong1
+  - Meong2
   proxies:
   - UMUM
 - name: Instagram
   type: select
+  use:
+  - Meong1
+  - Meong2
   proxies:
   - UMUM
 - name: Bank
   type: select
+  use:
+  - Meong1
+  - Meong2
   proxies:
   - UMUM
 - name: Facebook
   type: select
+  use:
+  - Meong1
+  - Meong2
   proxies:
   - UMUM
 - name: TikTok
   type: select
+  use:
+  - Meong1
+  - Meong2
   proxies:
   - UMUM
 - name: Twitter
   type: select
+  use:
+  - Meong1
+  - Meong2
   proxies:
   - UMUM
 - name: Telegram
   type: select
+  use:
+  - Meong1
+  - Meong2
   proxies:
   - UMUM
 - name: YouTube
   type: select
+  use:
+  - Meong1
+  - Meong2
   proxies:
   - UMUM
 - name: Speedtest
   type: select
+  use:
+  - Meong1
+  - Meong2
   proxies:
   - UMUM
 - name: 18+
@@ -150,7 +169,9 @@ proxy-groups:
   - REJECT
 - name: Akrb
   type: select
-  disable-udp: false
+  use:
+  - Meong1
+  - Meong2
   proxies:
   - UMUM
 dns:
