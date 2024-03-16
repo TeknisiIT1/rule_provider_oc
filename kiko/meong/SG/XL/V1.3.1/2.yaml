@@ -82,6 +82,14 @@ proxy-providers:
   Meong1:
     type: http
     path: "./rule_provider_oc/main/kiko/proxies/XL/2.yaml"
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/kiko/proxies/XL/1.yaml
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 100
+    Meong2:
+    type: http
+    path: "./rule_provider_oc/main/kiko/proxies/XL/2.yaml"
     url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/kiko/proxies/XL/2.yaml
     health-check:
       enable: true
@@ -94,101 +102,68 @@ proxy-groups:
   disable-udp: false
   use:
   - Meong1
+  - Meong2
   url: http://www.gstatic.com/generate_204
   interval: '300'
 - name: PING
   type: url-test
   disable-udp: false
   use:
-  - Meong1
+  - LB Akun1
   url: http://www.gstatic.com/generate_204
   interval: '300'
   tolerance: '100'
 - name: Sosmed1
-  type: select
-  use:
-  - Meong1
   proxies:
   - LB Akun1
-  - PING
 - name: Gaming_Domain
   type: select
-  use:
-  - Meong1
   proxies:
   - LB Akun1
-  - PING
 - name: Instagram
   type: select
-  use:
-  - Meong1
   proxies:
   - LB Akun1
   - PING
 - name: Bank
   type: select
-  use:
-  - Meong1
   proxies:
   - LB Akun1
-  - PING
 - name: Facebook
   type: select
-  use:
-  - Meong1
   proxies:
   - LB Akun1
   - PING
 - name: TikTok
   type: select
-  use:
-  - Meong1
   proxies:
   - LB Akun1
-  - PING
 - name: Twitter
   type: select
-  use:
-  - Meong1
   proxies:
   - LB Akun1
-  - PING
 - name: Telegram
   type: select
-  use:
-  - Meong1
   proxies:
   - LB Akun1
-  - PING
 - name: YouTube
   type: select
-  use:
-  - Meong1
   proxies:
   - LB Akun1
-  - PING
 - name: Speedtest
   type: select
-  use:
-  - Meong1
   proxies:
   - LB Akun1
-  - PING
 - name: 18+
   type: select
   disable-udp: false
-  use:
-  - Meong1
   proxies:
   - REJECT
 - name: Akrb
   type: select
   disable-udp: false
-  use:
-  - Meong1
   proxies:
   - LB Akun1
-  - PING
 dns:
   nameserver:
   - 192.168.8.1
