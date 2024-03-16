@@ -12,12 +12,6 @@ rule-providers:
     url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/Gaming_domain.yaml
     path: "./rule_provider_oc/Gaming_domain.yaml"
     interval: 100
-  Sosmed1:
-    type: http
-    behavior: classical
-    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/Sosmed1.yaml
-    path: "./rule_provider_oc/Sosmed1.yaml"
-    interval: 100
   ADS:
     type: http
     behavior: classical
@@ -113,9 +107,6 @@ proxy-groups:
   url: http://www.gstatic.com/generate_204
   interval: '300'
   tolerance: '100'
-- name: Sosmed1
-  proxies:
-  - LB Akun1
 - name: Gaming_Domain
   type: select
   proxies:
@@ -235,7 +226,6 @@ rules:
 - RULE-SET,18+,REJECT
 - RULE-SET,ADS,REJECT
 - RULE-SET,Akrb,Akrb
-- RULE-SET,Sosmed1,Sosmed1
 - RULE-SET,Gaming_Domain,Gaming_Domain
 - MATCH,LB Akun1
 geodata-loader: memconservative
