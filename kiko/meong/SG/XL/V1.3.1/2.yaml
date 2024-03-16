@@ -103,46 +103,46 @@ proxy-groups:
   type: url-test
   disable-udp: false
   use:
-  - LOAD BALANCE
+  - UMUM
   url: http://www.gstatic.com/generate_204
   interval: '300'
   tolerance: '100'
 - name: Gaming_Domain
   type: select
   proxies:
-  - LOAD BALANCE
+  - UMUM
 - name: Instagram
   type: select
   proxies:
-  - LOAD BALANCE
+  - UMUM
 - name: Bank
   type: select
   proxies:
-  - LOAD BALANCE
+  - UMUM
 - name: Facebook
   type: select
   proxies:
-  - LOAD BALANCE
+  - UMUM
 - name: TikTok
   type: select
   proxies:
-  - LOAD BALANCE
+  - UMUM
 - name: Twitter
   type: select
   proxies:
-  - LOAD BALANCE
+  - UMUM
 - name: Telegram
   type: select
   proxies:
-  - LOAD BALANCE
+  - UMUM
 - name: YouTube
   type: select
   proxies:
-  - LOAD BALANCE
+  - UMUM
 - name: Speedtest
   type: select
   proxies:
-  - LOAD BALANCE
+  - UMUM
 - name: 18+
   type: select
   disable-udp: false
@@ -152,7 +152,7 @@ proxy-groups:
   type: select
   disable-udp: false
   proxies:
-  - LOAD BALANCE
+  - UMUM
 dns:
   nameserver:
   - 192.168.8.1
