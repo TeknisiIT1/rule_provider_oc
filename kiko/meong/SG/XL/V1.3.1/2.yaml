@@ -106,12 +106,9 @@ proxy-groups:
 - name: PING
   type: url-test
   disable-udp: false
-  type: select
   use:
   - Meong1
   - Meong2
-  proxies:
-  - LOAD BALANCE
   url: http://www.gstatic.com/generate_204
   interval: '300'
   tolerance: '100'
