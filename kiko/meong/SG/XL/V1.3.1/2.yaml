@@ -87,7 +87,7 @@ proxy-providers:
       enable: true
       url: http://www.gstatic.com/generate_204
       interval: 100
-    Meong2:
+  Meong2:
     type: http
     path: "./rule_provider_oc/main/kiko/proxies/XL/2.yaml"
     url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/kiko/proxies/XL/2.yaml
@@ -110,6 +110,7 @@ proxy-groups:
   disable-udp: false
   use:
   - Meong1
+  - Meong2
   url: http://www.gstatic.com/generate_204
   interval: '300'
   tolerance: '100'
