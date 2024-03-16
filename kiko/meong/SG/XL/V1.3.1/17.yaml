@@ -12,12 +12,6 @@ rule-providers:
     url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/Gaming_domain.yaml
     path: "./rule_provider_oc/Gaming_domain.yaml"
     interval: 100
-  Sosmed1:
-    type: http
-    behavior: classical
-    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/Sosmed1.yaml
-    path: "./rule_provider_oc/Sosmed1.yaml"
-    interval: 100
   ADS:
     type: http
     behavior: classical
@@ -96,7 +90,11 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
     interval: 180
 proxy-groups:
-- name: LB Akun1
+- name: UMUM
+  type: select
+  proxies:
+  - LOAD BALANCE
+- name: LOAD BALANCE
   type: load-balance
   strategy: round-robin
   disable-udp: false
@@ -109,51 +107,48 @@ proxy-groups:
   type: url-test
   disable-udp: false
   use:
-  - LB Akun1
+  - LOAD BALANCE
   url: http://www.gstatic.com/generate_204
   interval: '300'
   tolerance: '100'
-- name: Sosmed1
-  proxies:
-  - LB Akun1
 - name: Gaming_Domain
   type: select
   proxies:
-  - LB Akun1
+  - LOAD BALANCE
 - name: Instagram
   type: select
   proxies:
-  - LB Akun1
+  - LOAD BALANCE
   - PING
 - name: Bank
   type: select
   proxies:
-  - LB Akun1
+  - LOAD BALANCE
 - name: Facebook
   type: select
   proxies:
-  - LB Akun1
+  - LOAD BALANCE
   - PING
 - name: TikTok
   type: select
   proxies:
-  - LB Akun1
+  - LOAD BALANCE
 - name: Twitter
   type: select
   proxies:
-  - LB Akun1
+  - LOAD BALANCE
 - name: Telegram
   type: select
   proxies:
-  - LB Akun1
+  - LOAD BALANCE
 - name: YouTube
   type: select
   proxies:
-  - LB Akun1
+  - LOAD BALANCE
 - name: Speedtest
   type: select
   proxies:
-  - LB Akun1
+  - LOAD BALANCE
 - name: 18+
   type: select
   disable-udp: false
@@ -163,7 +158,7 @@ proxy-groups:
   type: select
   disable-udp: false
   proxies:
-  - LB Akun1
+  - LOAD BALANCE
 dns:
   nameserver:
   - 192.168.8.1
@@ -235,8 +230,7 @@ rules:
 - RULE-SET,18+,REJECT
 - RULE-SET,ADS,REJECT
 - RULE-SET,Akrb,Akrb
-- RULE-SET,Sosmed1,Sosmed1
 - RULE-SET,Gaming_Domain,Gaming_Domain
-- MATCH,LB Akun1
+- MATCH,UMUM
 geodata-loader: memconservative
 tcp-concurrent: true
