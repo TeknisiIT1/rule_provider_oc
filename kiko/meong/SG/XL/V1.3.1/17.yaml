@@ -81,13 +81,13 @@ rule-providers:
 proxy-providers:
   Meong1:
     type: http
-    path: "./rule_provider_oc/main/kiko/proxies/XL/2.yaml"
+    path: "./rule_provider_oc/main/kiko/proxies/XL/1.yaml"
     url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/kiko/proxies/XL/1.yaml
     health-check:
       enable: true
       url: http://www.gstatic.com/generate_204
     interval: 180
-    Meong2:
+  Meong2:
     type: http
     path: "./rule_provider_oc/main/kiko/proxies/XL/2.yaml"
     url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/kiko/proxies/XL/2.yaml
