@@ -237,6 +237,6 @@ rules:
 - RULE-SET,Akrb,Akrb
 - RULE-SET,Sosmed1,Sosmed1
 - RULE-SET,Gaming_Domain,Gaming_Domain
-- MATCH,GLOBAL
+- MATCH,LB Akun1
 geodata-loader: memconservative
 tcp-concurrent: true
