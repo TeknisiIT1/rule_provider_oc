@@ -12,6 +12,12 @@ rule-providers:
     url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/Gaming_domain.yaml
     path: "./rule_provider_oc/Gaming_domain.yaml"
     interval: 100
+  Sosmed1:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/Sosmed1.yaml
+    path: "./rule_provider_oc/Sosmed1.yaml"
+    interval: 100
   ADS:
     type: http
     behavior: classical
@@ -80,17 +86,17 @@ proxy-providers:
     health-check:
       enable: true
       url: http://www.gstatic.com/generate_204
-    interval: 180
-  Meong2:
+      interval: 100
+    Meong2:
     type: http
     path: "./rule_provider_oc/main/kiko/proxies/XL/2.yaml"
     url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/kiko/proxies/XL/2.yaml
     health-check:
       enable: true
       url: http://www.gstatic.com/generate_204
-    interval: 180
+      interval: 100
 proxy-groups:
-- name: UMUM
+- name: LB Akun1
   type: load-balance
   strategy: round-robin
   disable-udp: false
@@ -99,81 +105,111 @@ proxy-groups:
   - Meong2
   url: http://www.gstatic.com/generate_204
   interval: '300'
+- name: PING
+  type: url-test
+  disable-udp: false
+  use:
+  - Meong1
+  url: http://www.gstatic.com/generate_204
+  interval: '300'
+  tolerance: '100'
+- name: Sosmed1
+  type: select
+  use:
+  - Meong1
+  - Meong2
+  proxies:
+  - LB Akun1
+  - PING
 - name: Gaming_Domain
   type: select
   use:
   - Meong1
   - Meong2
   proxies:
-  - UMUM
+  - LB Akun1
+  - PING
 - name: Instagram
   type: select
   use:
   - Meong1
   - Meong2
   proxies:
-  - UMUM
+  - LB Akun1
+  - PING
 - name: Bank
   type: select
   use:
   - Meong1
   - Meong2
   proxies:
-  - UMUM
+  - LB Akun1
+  - PING
 - name: Facebook
   type: select
   use:
   - Meong1
   - Meong2
   proxies:
-  - UMUM
+  - LB Akun1
+  - PING
 - name: TikTok
   type: select
   use:
   - Meong1
   - Meong2
   proxies:
-  - UMUM
+  - LB Akun1
+  - PING
 - name: Twitter
   type: select
   use:
   - Meong1
   - Meong2
   proxies:
-  - UMUM
+  - LB Akun1
+  - PING
 - name: Telegram
   type: select
   use:
   - Meong1
   - Meong2
   proxies:
-  - UMUM
+  - LB Akun1
+  - PING
 - name: YouTube
   type: select
   use:
   - Meong1
   - Meong2
   proxies:
-  - UMUM
+  - LB Akun1
+  - PING
 - name: Speedtest
   type: select
   use:
   - Meong1
   - Meong2
   proxies:
-  - UMUM
+  - LB Akun1
+  - PING
 - name: 18+
   type: select
   disable-udp: false
-  proxies:
-  - REJECT
-- name: Akrb
-  type: select
   use:
   - Meong1
   - Meong2
   proxies:
-  - UMUM
+  - REJECT
+- name: Akrb
+  type: select
+  disable-udp: false
+  use:
+  - Meong1
+  - Meong2
+  proxies:
+  - LB Akun1
+  - PING
 dns:
   nameserver:
   - 192.168.8.1
@@ -245,7 +281,8 @@ rules:
 - RULE-SET,18+,REJECT
 - RULE-SET,ADS,REJECT
 - RULE-SET,Akrb,Akrb
+- RULE-SET,Sosmed1,Sosmed1
 - RULE-SET,Gaming_Domain,Gaming_Domain
-- MATCH,UMUM
+- MATCH,GLOBAL
 geodata-loader: memconservative
 tcp-concurrent: true
