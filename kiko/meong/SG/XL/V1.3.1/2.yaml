@@ -119,7 +119,6 @@ proxy-groups:
   type: select
   proxies:
   - LOAD BALANCE
-  - PING
 - name: Bank
   type: select
   proxies:
@@ -128,7 +127,6 @@ proxy-groups:
   type: select
   proxies:
   - LOAD BALANCE
-  - PING
 - name: TikTok
   type: select
   proxies:
