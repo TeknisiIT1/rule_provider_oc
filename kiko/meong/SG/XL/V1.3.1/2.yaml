@@ -91,10 +91,6 @@ proxy-providers:
     interval: 180
 proxy-groups:
 - name: UMUM
-  type: select
-  proxies:
-  - LOAD BALANCE
-- name: LOAD BALANCE
   type: load-balance
   strategy: round-robin
   disable-udp: false
