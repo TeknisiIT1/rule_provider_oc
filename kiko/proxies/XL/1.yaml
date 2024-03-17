@@ -10633,3 +10633,107 @@ proxies:
     path: /netztrojan
   headers:
     Host: jos21.surgavpnjos.my.id
+- name: SGVIP818
+  server: movies.iflixplay.in
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP819
+  server: tv.iflixplay.in
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP820
+  server: web.iflixplay.in
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP821
+  server: www.iflixplay.in
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP822
+  server: 104.21.24.146
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP823
+  server: 172.67.219.64
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP824
+  server: 4gold.viu.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
+- name: SGVIP825
+  server: help.viu.com
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: jos21.surgavpnjos.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: jos21.surgavpnjos.my.id
