@@ -1,0 +1,235 @@
+proxies:
+- name: SGVIP1
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: live.iflix.com
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: live.iflix.com
+- name: SGVIP2
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: upload.iflix.com
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: upload.iflix.com
+- name: SGVIP3
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: pbaccess.iflix.com
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: pbaccess.iflix.com
+- name: SGVIP4
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: access.iflix.com
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: access.iflix.com
+- name: SGVIP5
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: tv.iflix.com
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: tv.iflix.com
+- name: SGVIP6
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: access.wetv.vip
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: access.wetv.vip
+- name: SGVIP7
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: live.wetv.vip
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: live.wetv.vip
+- name: SGVIP8
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: t.rconfig.wetv.vip
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: t.rconfig.wetv.vip
+- name: SGVIP9
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: zenvideo.wetv.vip
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: zenvideo.wetv.vip
+- name: SGVIP10
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: movie.iflix.com
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: movie.iflix.com
+- name: SGVIP11
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: 211.25.99.23
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: 211.25.99.23
+- name: SGVIP12
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: play.iflix.com
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: play.iflix.com
+- name: SGVIP13
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: prod-iflix.supersabar.com
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: prod-iflix.supersabar.com
+- name: SGVIP14
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: gateway.iv.airpay.co.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: gateway.iv.airpay.co.id
+- name: SGVIP15
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: iflix.com  
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: iflix.com
+- name: SGVIP16
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: api.proxy.iflix.com
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: api.proxy.iflix.com
+- name: SGVIP17
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: prod-in.iflix.com
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: prod-in.iflix.com
+- name: SGVIP18
+  server: jos21.surgavpnjos.my.id
+  port: 443
+  type: trojan
+  password: trglobalvips1
+  network: ws
+  sni: data.iflix.com
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /netztrojan
+  headers:
+    Host: data.iflix.com
