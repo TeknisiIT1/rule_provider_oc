@@ -145,7 +145,6 @@ proxy-groups:
   - Meong3
   proxies:
   - LB Akun1
-  - PING
 - name: Facebook
   type: select
   use:
@@ -162,7 +161,6 @@ proxy-groups:
   - Meong3
   proxies:
   - LB Akun1
-  - PING
 - name: Twitter
   type: select
   use:
