@@ -129,7 +129,6 @@ proxy-groups:
   - Meong3
   proxies:
   - LB Akun1
-  - PING
 - name: Instagram
   type: select
   use:
@@ -180,7 +179,6 @@ proxy-groups:
   - Meong3
   proxies:
   - LB Akun1
-  - PING
 - name: YouTube
   type: select
   use:
