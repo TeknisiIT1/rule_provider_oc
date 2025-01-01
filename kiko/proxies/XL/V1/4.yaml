@@ -12,4 +12,3 @@ proxies:
     path: /trojan-ws
   headers:
     Host: lucifer.erlvpn.my.id
-	
