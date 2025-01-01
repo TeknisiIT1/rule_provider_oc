@@ -1,0 +1,15 @@
+proxies:
+- name: SGVIP1
+  server: quiz.staging.vidio.com
+  port: 443
+  type: trojan
+  password: a7e6b4f6-fad9-4dca-8f3e-a5bf4bb1a49f
+  network: ws
+  sni: lucifer.erlvpn.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: lucifer.erlvpn.my.id
+	
