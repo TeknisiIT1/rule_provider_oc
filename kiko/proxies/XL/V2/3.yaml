@@ -3,7 +3,7 @@ proxies:
   server: 104.18.225.52
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -16,7 +16,7 @@ proxies:
   server: 104.22.5.240
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -29,7 +29,7 @@ proxies:
   server: 104.16.16.120
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -42,7 +42,7 @@ proxies:
   server: 104.16.15.120
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -55,7 +55,7 @@ proxies:
   server: 104.16.13.120
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -68,7 +68,7 @@ proxies:
   server: 104.22.4.240
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -81,7 +81,7 @@ proxies:
   server: 104.22.4.240
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -94,7 +94,7 @@ proxies:
   server: 104.22.5.240
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -107,7 +107,7 @@ proxies:
   server: img.email1.vidio.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -120,7 +120,7 @@ proxies:
   server: img.email2.vidio.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -133,7 +133,7 @@ proxies:
   server: img.email3.vidio.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -146,7 +146,7 @@ proxies:
   server: quiz.vidio.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -159,7 +159,7 @@ proxies:
   server: quiz.int.vidio.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -172,7 +172,7 @@ proxies:
   server: quiz.staging.vidio.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -185,7 +185,7 @@ proxies:
   server: www.axis.co.id
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -198,7 +198,7 @@ proxies:
   server: 104.18.6.238
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -211,7 +211,7 @@ proxies:
   server: 104.18.6.238
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -224,7 +224,7 @@ proxies:
   server: customhostname.onelink.me
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -237,7 +237,7 @@ proxies:
   server: onelink-preview-alb.onelink.me
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -250,7 +250,7 @@ proxies:
   server: personalization.vidio.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -263,7 +263,7 @@ proxies:
   server: shop.line.me
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -276,7 +276,7 @@ proxies:
   server: shop.vivo.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -289,7 +289,7 @@ proxies:
   server: s20.tiktokcdn.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -302,7 +302,7 @@ proxies:
   server: nontontv.vidio.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -315,7 +315,7 @@ proxies:
   server: 172.67.5.14
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -328,7 +328,7 @@ proxies:
   server: 162.159.128.7
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -341,7 +341,7 @@ proxies:
   server: vd1.networkcloud.my.id
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -354,7 +354,7 @@ proxies:
   server: vd2.networkcloud.my.id
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -367,7 +367,7 @@ proxies:
   server: vd3.networkcloud.my.id
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -380,7 +380,7 @@ proxies:
   server: help.viu.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -393,7 +393,7 @@ proxies:
   server: blog.viu.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -406,7 +406,7 @@ proxies:
   server: 104.16.53.111
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -419,7 +419,7 @@ proxies:
   server: 104.16.51.111
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -432,7 +432,7 @@ proxies:
   server: creativeservices.netflix.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -445,7 +445,7 @@ proxies:
   server: cache.netflix.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -458,7 +458,7 @@ proxies:
   server: devices.netflix.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -471,7 +471,7 @@ proxies:
   server: lacounty.netflix.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -484,7 +484,7 @@ proxies:
   server: npca.netflix.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -497,7 +497,7 @@ proxies:
   server: openconnect.netflix.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -510,7 +510,7 @@ proxies:
   server: updates.netflix.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -523,7 +523,7 @@ proxies:
   server: 104.17.240.25
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -536,7 +536,7 @@ proxies:
   server: 104.17.238.25
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -549,7 +549,7 @@ proxies:
   server: 104.17.241.25
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -562,7 +562,7 @@ proxies:
   server: 104.17.241.25
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -575,7 +575,7 @@ proxies:
   server: 104.17.239.25
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -588,7 +588,7 @@ proxies:
   server: 104.17.241.25
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -601,7 +601,7 @@ proxies:
   server: 104.18.6.238
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -614,7 +614,7 @@ proxies:
   server: quiz.int.vidio.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -626,7 +626,7 @@ proxies:
   server: help.viu.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -639,7 +639,7 @@ proxies:
   server: zaintest.vuclip.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -652,7 +652,7 @@ proxies:
   server: 104.16.51.111
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -665,7 +665,7 @@ proxies:
   server: 104.18.38.43
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -678,7 +678,7 @@ proxies:
   server: 104.22.5.240
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -691,7 +691,7 @@ proxies:
   server: 104.16.13.120
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -704,7 +704,7 @@ proxies:
   server: 172.67.5.14
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -717,7 +717,7 @@ proxies:
   server: 104.17.239.25
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -730,7 +730,7 @@ proxies:
   server: 104.17.238.25
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -743,7 +743,7 @@ proxies:
   server: 104.17.241.25
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -755,7 +755,7 @@ proxies:
   server: 104.17.237.25
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -768,7 +768,7 @@ proxies:
   server: 104.17.240.25
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -780,7 +780,7 @@ proxies:
   server: creativeservices.netflix.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -792,7 +792,7 @@ proxies:
   server: personalization.vidio.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -805,7 +805,7 @@ proxies:
   server: shop.line.me
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -818,7 +818,7 @@ proxies:
   server: shop.vivo.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -831,7 +831,7 @@ proxies:
   server: s20.tiktokcdn.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -844,7 +844,7 @@ proxies:
   server: nontontv.vidio.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -857,7 +857,7 @@ proxies:
   server: youtube.zendesk.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -869,7 +869,7 @@ proxies:
   server: youtube.zendesk.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -882,7 +882,7 @@ proxies:
   server: tiktok1.zendesk.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -894,7 +894,7 @@ proxies:
   server: poe.garena.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -906,7 +906,7 @@ proxies:
   server: cdn.appsflyer.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -919,7 +919,7 @@ proxies:
   server: v1-cdn.cricket.miniclippt.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -931,7 +931,7 @@ proxies:
   server: m.pubgmobile.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -943,7 +943,7 @@ proxies:
   server: web.poe.garena.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -956,7 +956,7 @@ proxies:
   server: m.mobilelegeds.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -969,7 +969,7 @@ proxies:
   server: shop.vivo.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -982,7 +982,7 @@ proxies:
   server: s20.tiktokcdn.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -995,7 +995,7 @@ proxies:
   server: nontontv.vidio.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1008,7 +1008,7 @@ proxies:
   server: youtube.zendesk.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1020,7 +1020,7 @@ proxies:
   server: youtube.zendesk.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1033,7 +1033,7 @@ proxies:
   server: tiktok1.zendesk.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1045,7 +1045,7 @@ proxies:
   server: 104.22.5.240
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1057,7 +1057,7 @@ proxies:
   server: 172.67.5.14
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1069,7 +1069,7 @@ proxies:
   server: 104.22.4.240
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1082,7 +1082,7 @@ proxies:
   server: 104.16.51.111
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1095,7 +1095,7 @@ proxies:
   server: 104.16.51.111
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1108,7 +1108,7 @@ proxies:
   server: 162.159.128.7
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1121,7 +1121,7 @@ proxies:
   server: 162.159.130.11
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1134,7 +1134,7 @@ proxies:
   server: 104.16.51.111
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1146,7 +1146,7 @@ proxies:
   server: 104.18.22.136
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1159,7 +1159,7 @@ proxies:
   server: 104.16.106.96
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1171,7 +1171,7 @@ proxies:
   server: 162.159.128.7
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1183,7 +1183,7 @@ proxies:
   server: 104.19.185.16
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1195,7 +1195,7 @@ proxies:
   server: 104.22.28.102
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1208,7 +1208,7 @@ proxies:
   server: 104.18.49.163
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1221,7 +1221,7 @@ proxies:
   server: 104.18.61.93
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1234,7 +1234,7 @@ proxies:
   server: 104.18.40.33
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1247,7 +1247,7 @@ proxies:
   server: freefiremobile.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1260,7 +1260,7 @@ proxies:
   server: shopee.co.id
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1272,7 +1272,7 @@ proxies:
   server: m.mobilelegends.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1285,7 +1285,7 @@ proxies:
   server: garena.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1297,7 +1297,7 @@ proxies:
   server: pubgmobile.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1309,7 +1309,7 @@ proxies:
   server: 104.18.0.139
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1321,7 +1321,7 @@ proxies:
   server: 104.16.53.111
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1334,7 +1334,7 @@ proxies:
   server: 104.18.19.183
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1347,7 +1347,7 @@ proxies:
   server: 104.16.53.111
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1360,7 +1360,7 @@ proxies:
   server: 162.159.128.7
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1373,7 +1373,7 @@ proxies:
   server: 104.21.69.223
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
@@ -1386,7 +1386,7 @@ proxies:
   server: ak-hk.stream.music.joox.com
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: kiko1.pisces.my.id
   skip-cert-verify: true
