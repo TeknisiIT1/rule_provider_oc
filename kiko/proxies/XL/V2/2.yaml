@@ -3,7 +3,7 @@ proxies:
   server: kiko1.pisces.my.id
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: live.iflix.com
   skip-cert-verify: true
@@ -16,7 +16,7 @@ proxies:
   server: kiko1.pisces.my.id
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: upload.iflix.com
   skip-cert-verify: true
@@ -29,7 +29,7 @@ proxies:
   server: kiko1.pisces.my.id
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: pbaccess.iflix.com
   skip-cert-verify: true
@@ -42,7 +42,7 @@ proxies:
   server: kiko1.pisces.my.id
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: access.iflix.com
   skip-cert-verify: true
@@ -55,7 +55,7 @@ proxies:
   server: kiko1.pisces.my.id
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: tv.iflix.com
   skip-cert-verify: true
@@ -68,7 +68,7 @@ proxies:
   server: kiko1.pisces.my.id
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: access.wetv.vip
   skip-cert-verify: true
@@ -81,7 +81,7 @@ proxies:
   server: kiko1.pisces.my.id
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: live.wetv.vip
   skip-cert-verify: true
@@ -94,7 +94,7 @@ proxies:
   server: kiko1.pisces.my.id
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: t.rconfig.wetv.vip
   skip-cert-verify: true
@@ -107,7 +107,7 @@ proxies:
   server: kiko1.pisces.my.id
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: zenvideo.wetv.vip
   skip-cert-verify: true
@@ -120,7 +120,7 @@ proxies:
   server: kiko1.pisces.my.id
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: movie.iflix.com
   skip-cert-verify: true
@@ -133,7 +133,7 @@ proxies:
   server: kiko1.pisces.my.id
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: 211.25.99.23
   skip-cert-verify: true
@@ -146,7 +146,7 @@ proxies:
   server: kiko1.pisces.my.id
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: play.iflix.com
   skip-cert-verify: true
@@ -159,7 +159,7 @@ proxies:
   server: kiko1.pisces.my.id
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: prod-iflix.supersabar.com
   skip-cert-verify: true
@@ -172,7 +172,7 @@ proxies:
   server: kiko1.pisces.my.id
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: gateway.iv.airpay.co.id
   skip-cert-verify: true
@@ -185,7 +185,7 @@ proxies:
   server: kiko1.pisces.my.id
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: iflix.com  
   skip-cert-verify: true
@@ -198,7 +198,7 @@ proxies:
   server: kiko1.pisces.my.id
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: api.proxy.iflix.com
   skip-cert-verify: true
@@ -211,7 +211,7 @@ proxies:
   server: kiko1.pisces.my.id
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: prod-in.iflix.com
   skip-cert-verify: true
@@ -224,7 +224,7 @@ proxies:
   server: kiko1.pisces.my.id
   port: 443
   type: trojan
-  password: f9c2fc0d-3dbb-492a-8073-583323aab628
+  password: 54ae587f-7446-4934-ba17-a689ed4e3493
   network: ws
   sni: data.iflix.com
   skip-cert-verify: true
