@@ -1,236 +1,92 @@
 proxies:
 - name: SGVIP1
-  server: kiko1.pisces.my.id
+  server: vpn1.networkcloud.my.id
   port: 443
   type: trojan
-  password: 54ae587f-7446-4934-ba17-a689ed4e3493
+  password: 492c1ed7-f4d8-48fe-8e6b-190672ab5003
   network: ws
-  sni: live.iflix.com
+  sni: ive-upload.instagram.com
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /trojan-ws
+    path: /83.142.30.5-2096
   headers:
-    Host: live.iflix.com
+    Host: vpn1.networkcloud.my.id
 - name: SGVIP2
-  server: kiko1.pisces.my.id
+  server: vpn1.networkcloud.my.id
   port: 443
   type: trojan
-  password: 54ae587f-7446-4934-ba17-a689ed4e3493
+  password: 492c1ed7-f4d8-48fe-8e6b-190672ab5003
   network: ws
-  sni: upload.iflix.com
+  sni: graph.instagram.com
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /trojan-ws
+    path: /83.142.30.5-2096
   headers:
-    Host: upload.iflix.com
+    Host: vpn1.networkcloud.my.id
 - name: SGVIP3
-  server: kiko1.pisces.my.id
+  server: vpn1.networkcloud.my.id
   port: 443
   type: trojan
-  password: 54ae587f-7446-4934-ba17-a689ed4e3493
+  password: 492c1ed7-f4d8-48fe-8e6b-190672ab5003
   network: ws
-  sni: pbaccess.iflix.com
+  sni: z-p15.www.isntagram.com
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /trojan-ws
+    path: /83.142.30.5-2096
   headers:
-    Host: pbaccess.iflix.com
+    Host: vpn1.networkcloud.my.id
 - name: SGVIP4
-  server: kiko1.pisces.my.id
+  server: vpn1.networkcloud.my.id
   port: 443
   type: trojan
-  password: 54ae587f-7446-4934-ba17-a689ed4e3493
+  password: 492c1ed7-f4d8-48fe-8e6b-190672ab5003
   network: ws
-  sni: access.iflix.com
+  sni: graph.facebook.com
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /trojan-ws
+    path: /83.142.30.5-2096
   headers:
-    Host: access.iflix.com
+    Host: vpn1.networkcloud.my.id
 - name: SGVIP5
-  server: kiko1.pisces.my.id
+  server: vpn1.networkcloud.my.id
   port: 443
   type: trojan
-  password: 54ae587f-7446-4934-ba17-a689ed4e3493
+  password: 492c1ed7-f4d8-48fe-8e6b-190672ab5003
   network: ws
-  sni: tv.iflix.com
+  sni: opensource.fb.com
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /trojan-ws
+    path: /83.142.30.5-2096
   headers:
-    Host: tv.iflix.com
+    Host: vpn1.networkcloud.my.id
 - name: SGVIP6
-  server: kiko1.pisces.my.id
+  server: vpn1.networkcloud.my.id
   port: 443
   type: trojan
-  password: 54ae587f-7446-4934-ba17-a689ed4e3493
+  password: 492c1ed7-f4d8-48fe-8e6b-190672ab5003
   network: ws
-  sni: access.wetv.vip
+  sni: status.fb.com
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /trojan-ws
+    path: /83.142.30.5-2096
   headers:
-    Host: access.wetv.vip
+    Host: vpn1.networkcloud.my.id
 - name: SGVIP7
-  server: kiko1.pisces.my.id
+  server: vpn1.networkcloud.my.id
   port: 443
   type: trojan
-  password: 54ae587f-7446-4934-ba17-a689ed4e3493
+  password: 492c1ed7-f4d8-48fe-8e6b-190672ab5003
   network: ws
-  sni: live.wetv.vip
+  sni: edge-ig-mqtt-p4-shv-01-dub4.facebook.com
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /trojan-ws
+    path: /83.142.30.5-2096
   headers:
-    Host: live.wetv.vip
-- name: SGVIP8
-  server: kiko1.pisces.my.id
-  port: 443
-  type: trojan
-  password: 54ae587f-7446-4934-ba17-a689ed4e3493
-  network: ws
-  sni: t.rconfig.wetv.vip
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /trojan-ws
-  headers:
-    Host: t.rconfig.wetv.vip
-- name: SGVIP9
-  server: kiko1.pisces.my.id
-  port: 443
-  type: trojan
-  password: 54ae587f-7446-4934-ba17-a689ed4e3493
-  network: ws
-  sni: zenvideo.wetv.vip
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /trojan-ws
-  headers:
-    Host: zenvideo.wetv.vip
-- name: SGVIP10
-  server: kiko1.pisces.my.id
-  port: 443
-  type: trojan
-  password: 54ae587f-7446-4934-ba17-a689ed4e3493
-  network: ws
-  sni: movie.iflix.com
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /trojan-ws
-  headers:
-    Host: movie.iflix.com
-- name: SGVIP11
-  server: kiko1.pisces.my.id
-  port: 443
-  type: trojan
-  password: 54ae587f-7446-4934-ba17-a689ed4e3493
-  network: ws
-  sni: 211.25.99.23
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /trojan-ws
-  headers:
-    Host: 211.25.99.23
-- name: SGVIP12
-  server: kiko1.pisces.my.id
-  port: 443
-  type: trojan
-  password: 54ae587f-7446-4934-ba17-a689ed4e3493
-  network: ws
-  sni: play.iflix.com
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /trojan-ws
-  headers:
-    Host: play.iflix.com
-- name: SGVIP13
-  server: kiko1.pisces.my.id
-  port: 443
-  type: trojan
-  password: 54ae587f-7446-4934-ba17-a689ed4e3493
-  network: ws
-  sni: prod-iflix.supersabar.com
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /trojan-ws
-  headers:
-    Host: prod-iflix.supersabar.com
-- name: SGVIP14
-  server: kiko1.pisces.my.id
-  port: 443
-  type: trojan
-  password: 54ae587f-7446-4934-ba17-a689ed4e3493
-  network: ws
-  sni: gateway.iv.airpay.co.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /trojan-ws
-  headers:
-    Host: gateway.iv.airpay.co.id
-- name: SGVIP15
-  server: kiko1.pisces.my.id
-  port: 443
-  type: trojan
-  password: 54ae587f-7446-4934-ba17-a689ed4e3493
-  network: ws
-  sni: iflix.com  
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /trojan-ws
-  headers:
-    Host: iflix.com
-- name: SGVIP16
-  server: kiko1.pisces.my.id
-  port: 443
-  type: trojan
-  password: 54ae587f-7446-4934-ba17-a689ed4e3493
-  network: ws
-  sni: api.proxy.iflix.com
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /trojan-ws
-  headers:
-    Host: api.proxy.iflix.com
-- name: SGVIP17
-  server: kiko1.pisces.my.id
-  port: 443
-  type: trojan
-  password: 54ae587f-7446-4934-ba17-a689ed4e3493
-  network: ws
-  sni: prod-in.iflix.com
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /trojan-ws
-  headers:
-    Host: prod-in.iflix.com
-- name: SGVIP18
-  server: kiko1.pisces.my.id
-  port: 443
-  type: trojan
-  password: 54ae587f-7446-4934-ba17-a689ed4e3493
-  network: ws
-  sni: data.iflix.com
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /trojan-ws
-  headers:
-    Host: data.iflix.com
-	
+    Host: vpn1.networkcloud.my.id
