@@ -1,92 +1,92 @@
 proxies:
 - name: SGVIP1
-  server: vpn1.networkcloud.my.id
+  server: vpn2.networkcloud.my.id
   port: 443
   type: trojan
-  password: 4276aee6-2baf-49f2-83c5-d270af580a35
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
   network: ws
   sni: ive-upload.instagram.com
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /194.127.193.240-50791
+    path: /trojan-ws
   headers:
-    Host: vpn1.networkcloud.my.id
+    Host: vpn2.networkcloud.my.id
 - name: SGVIP2
-  server: vpn1.networkcloud.my.id
+  server: vpn2.networkcloud.my.id
   port: 443
   type: trojan
-  password: 4276aee6-2baf-49f2-83c5-d270af580a35
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
   network: ws
   sni: graph.instagram.com
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /194.127.193.240-50791
+    path: /trojan-ws
   headers:
-    Host: vpn1.networkcloud.my.id
+    Host: vpn2.networkcloud.my.id
 - name: SGVIP3
-  server: vpn1.networkcloud.my.id
+  server: vpn2.networkcloud.my.id
   port: 443
   type: trojan
-  password: 4276aee6-2baf-49f2-83c5-d270af580a35
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
   network: ws
   sni: z-p15.www.isntagram.com
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /194.127.193.240-50791
+    path: /trojan-ws
   headers:
-    Host: vpn1.networkcloud.my.id
+    Host: vpn2.networkcloud.my.id
 - name: SGVIP4
-  server: vpn1.networkcloud.my.id
+  server: vpn2.networkcloud.my.id
   port: 443
   type: trojan
-  password: 4276aee6-2baf-49f2-83c5-d270af580a35
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
   network: ws
   sni: graph.facebook.com
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /194.127.193.240-50791
+    path: /trojan-ws
   headers:
-    Host: vpn1.networkcloud.my.id
+    Host: vpn2.networkcloud.my.id
 - name: SGVIP5
-  server: vpn1.networkcloud.my.id
+  server: vpn2.networkcloud.my.id
   port: 443
   type: trojan
-  password: 4276aee6-2baf-49f2-83c5-d270af580a35
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
   network: ws
   sni: opensource.fb.com
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /194.127.193.240-50791
+    path: /trojan-ws
   headers:
-    Host: vpn1.networkcloud.my.id
+    Host: vpn2.networkcloud.my.id
 - name: SGVIP6
-  server: vpn1.networkcloud.my.id
+  server: vpn2.networkcloud.my.id
   port: 443
   type: trojan
-  password: 4276aee6-2baf-49f2-83c5-d270af580a35
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
   network: ws
   sni: status.fb.com
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /194.127.193.240-50791
+    path: /trojan-ws
   headers:
-    Host: vpn1.networkcloud.my.id
+    Host: vpn2.networkcloud.my.id
 - name: SGVIP7
-  server: vpn1.networkcloud.my.id
+  server: vpn2.networkcloud.my.id
   port: 443
   type: trojan
-  password: 4276aee6-2baf-49f2-83c5-d270af580a35
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
   network: ws
   sni: edge-ig-mqtt-p4-shv-01-dub4.facebook.com
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /194.127.193.240-50791
+    path: /trojan-ws
   headers:
-    Host: vpn1.networkcloud.my.id
+    Host: vpn2.networkcloud.my.id
