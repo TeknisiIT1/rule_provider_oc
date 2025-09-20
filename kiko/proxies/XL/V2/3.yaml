@@ -1,1 +1,482 @@
-
+proxies:
+- name: SGVIP1
+  server: quiz.int.vidio.com
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP2
+  server: quiz.staging.vidio.com
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP3
+  server: 104.21.28.78
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP4
+  server: 162.159.140.159
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP5
+  server: 172.66.0.157
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP6
+  server: 104.17.73.206
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP7
+  server: 104.18.22.158
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP8
+  server: 172.67.144.227
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP9
+  server: ava.game.naver.com
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP10
+  server: graph.instagram.com
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP11
+  server: zaintest.vuclip.com
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP12
+  server: cache.netflix.com
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP13
+  server: investor.fb.com
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP14
+  server: edge-ig-mqtt-p4-shv-sin6.facebook.com 
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP15
+  server: 31.13.67.51
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP16
+  server: account-gopay.midtrans.com
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP17
+  server: 104.26.15.196
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP18
+  server: go.appsflyer.com
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP19
+  server: support.zoom.us
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP20
+  server: chat.xl.co.id
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP21
+  server: investor.fb.com
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP22
+  server: 104.17.238.25
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP23
+  server: 104.21.28.78
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP24
+  server: investors.spotify.com
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP25
+  server: app.genflix.co.id
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP26
+  server: app.gopay.co.id
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP27
+  server: whatsapp.net
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP28
+  server: support.zoom.us
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true 
+- name: SGVIP29
+  server: api24-normal-alisg.tiktokv.com
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP30
+  server: api24-normal-useast1a.tiktokv.com
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP31
+  server: api24-normal.tiktokv.com
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP32
+  server: support.zoom.us
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: support.zoom.us.vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: support.zoom.us.vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP33
+  server: api24-normal-alisg.tiktokv.com
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: api24-normal-alisg.tiktokv.com.vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: api24-normal-alisg.tiktokv.com.vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP34
+  server: api24-normal-useast1a.tiktokv.com
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: api24-normal-useast1a.tiktokv.com.vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: api24-normal-useast1a.tiktokv.com.vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP35
+  server: api24-normal.tiktokv.com
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: api24-normal.tiktokv.com.vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: api24-normal.tiktokv.com.vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP36
+  server: edu.udemy.com
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP37
+  server: 104.17.3.81
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
