@@ -1,6 +1,6 @@
 proxies:
 - name: SGVIP1
-  server: vpn2.networkcloud.my.id
+  server: 146.19.196.39
   port: 443
   type: trojan
   password: 42782cb6-6610-40f2-bcc9-7022acd06e42
@@ -13,7 +13,7 @@ proxies:
   headers:
     Host: vpn2.networkcloud.my.id
 - name: SGVIP2
-  server: vpn2.networkcloud.my.id
+  server: 146.19.196.39
   port: 443
   type: trojan
   password: 42782cb6-6610-40f2-bcc9-7022acd06e42
@@ -26,7 +26,7 @@ proxies:
   headers:
     Host: vpn2.networkcloud.my.id
 - name: SGVIP3
-  server: vpn2.networkcloud.my.id
+  server: 146.19.196.39
   port: 443
   type: trojan
   password: 42782cb6-6610-40f2-bcc9-7022acd06e42
@@ -39,7 +39,7 @@ proxies:
   headers:
     Host: vpn2.networkcloud.my.id
 - name: SGVIP4
-  server: vpn2.networkcloud.my.id
+  server: 146.19.196.39
   port: 443
   type: trojan
   password: 42782cb6-6610-40f2-bcc9-7022acd06e42
@@ -52,7 +52,7 @@ proxies:
   headers:
     Host: vpn2.networkcloud.my.id
 - name: SGVIP5
-  server: vpn2.networkcloud.my.id
+  server: 146.19.196.39
   port: 443
   type: trojan
   password: 42782cb6-6610-40f2-bcc9-7022acd06e42
@@ -65,7 +65,7 @@ proxies:
   headers:
     Host: vpn2.networkcloud.my.id
 - name: SGVIP6
-  server: vpn2.networkcloud.my.id
+  server: 146.19.196.39
   port: 443
   type: trojan
   password: 42782cb6-6610-40f2-bcc9-7022acd06e42
@@ -78,7 +78,7 @@ proxies:
   headers:
     Host: vpn2.networkcloud.my.id
 - name: SGVIP7
-  server: vpn2.networkcloud.my.id
+  server: 146.19.196.39
   port: 443
   type: trojan
   password: 42782cb6-6610-40f2-bcc9-7022acd06e42
@@ -90,3 +90,42 @@ proxies:
     path: /trojan-ws
   headers:
     Host: vpn2.networkcloud.my.id
+- name: SGVIP8
+  server: 146.19.196.39
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: live.iflix.com
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP9
+  server: 146.19.196.39
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: vplay.iflix.com
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP10
+  server: 146.19.196.39
+  port: 443
+  type: trojan
+  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  skip-cert-verify: true
+  sni: upload.iflix.com
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
