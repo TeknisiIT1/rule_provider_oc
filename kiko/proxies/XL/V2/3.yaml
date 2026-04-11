@@ -3,7 +3,7 @@ proxies:
   server: quiz.int.vidio.com
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -16,7 +16,7 @@ proxies:
   server: quiz.staging.vidio.com
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -29,7 +29,7 @@ proxies:
   server: 104.21.28.78
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -42,7 +42,7 @@ proxies:
   server: 162.159.140.159
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -55,7 +55,7 @@ proxies:
   server: 172.66.0.157
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -68,7 +68,7 @@ proxies:
   server: 104.17.73.206
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -81,7 +81,7 @@ proxies:
   server: 104.18.22.158
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -94,7 +94,7 @@ proxies:
   server: 172.67.144.227
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -107,7 +107,7 @@ proxies:
   server: ava.game.naver.com
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -120,7 +120,7 @@ proxies:
   server: graph.instagram.com
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -133,7 +133,7 @@ proxies:
   server: zaintest.vuclip.com
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -146,7 +146,7 @@ proxies:
   server: cache.netflix.com
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -159,7 +159,7 @@ proxies:
   server: investor.fb.com
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -172,7 +172,7 @@ proxies:
   server: edge-ig-mqtt-p4-shv-sin6.facebook.com 
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -185,7 +185,7 @@ proxies:
   server: 31.13.67.51
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -198,7 +198,7 @@ proxies:
   server: account-gopay.midtrans.com
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -211,7 +211,7 @@ proxies:
   server: 104.26.15.196
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -224,7 +224,7 @@ proxies:
   server: go.appsflyer.com
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -237,7 +237,7 @@ proxies:
   server: support.zoom.us
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -250,7 +250,7 @@ proxies:
   server: chat.xl.co.id
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -263,7 +263,7 @@ proxies:
   server: investor.fb.com
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -276,7 +276,7 @@ proxies:
   server: 104.17.238.25
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -289,7 +289,7 @@ proxies:
   server: 104.21.28.78
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -302,7 +302,7 @@ proxies:
   server: investors.spotify.com
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -315,7 +315,7 @@ proxies:
   server: app.genflix.co.id
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -328,7 +328,7 @@ proxies:
   server: app.gopay.co.id
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -341,7 +341,7 @@ proxies:
   server: whatsapp.net
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -354,7 +354,7 @@ proxies:
   server: support.zoom.us
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -367,7 +367,7 @@ proxies:
   server: api24-normal-alisg.tiktokv.com
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -380,7 +380,7 @@ proxies:
   server: api24-normal-useast1a.tiktokv.com
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -393,7 +393,7 @@ proxies:
   server: api24-normal.tiktokv.com
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -406,7 +406,7 @@ proxies:
   server: support.zoom.us
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: support.zoom.us.vpn2.networkcloud.my.id
   network: ws
@@ -419,7 +419,7 @@ proxies:
   server: api24-normal-alisg.tiktokv.com
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: api24-normal-alisg.tiktokv.com.vpn2.networkcloud.my.id
   network: ws
@@ -432,7 +432,7 @@ proxies:
   server: api24-normal-useast1a.tiktokv.com
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: api24-normal-useast1a.tiktokv.com.vpn2.networkcloud.my.id
   network: ws
@@ -445,7 +445,7 @@ proxies:
   server: api24-normal.tiktokv.com
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: api24-normal.tiktokv.com.vpn2.networkcloud.my.id
   network: ws
@@ -458,7 +458,7 @@ proxies:
   server: edu.udemy.com
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -471,7 +471,7 @@ proxies:
   server: 104.17.3.81
   port: 443
   type: trojan
-  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
