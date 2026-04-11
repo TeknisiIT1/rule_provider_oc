@@ -3,7 +3,7 @@ proxies:
   server: quiz.int.vidio.com
   port: 443
   type: trojan
-  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -16,7 +16,7 @@ proxies:
   server: 104.17.3.81
   port: 443
   type: trojan
-  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -29,7 +29,7 @@ proxies:
   server: xcvip.srpcom.online
   port: 443
   type: trojan
-  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -42,7 +42,7 @@ proxies:
   server: support.zoom.us
   port: 443
   type: trojan
-  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -55,7 +55,7 @@ proxies:
   server: support.zoom.us
   port: 443
   type: trojan
-  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
   skip-cert-verify: true
   sni: support.zoom.us.vpn2.networkcloud.my.id
   network: ws
@@ -68,7 +68,7 @@ proxies:
   server: xcvip.srpcom.online
   port: 443
   type: trojan
-  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
   skip-cert-verify: true
   sni: xcvip.srpcom.online.vpn2.networkcloud.my.id
   network: ws
@@ -94,7 +94,7 @@ proxies:
   server: ava.game.naver.com
   port: 443
   type: trojan
-  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
   skip-cert-verify: true
   sni: support.zoom.us.vpn2.networkcloud.my.id
   network: ws
@@ -107,7 +107,7 @@ proxies:
   server: support.zoom.us
   port: 443
   type: trojan
-  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
   skip-cert-verify: true
   sni: support.zoom.us.nusa2.wahyuyaw.my.id
   network: ws
@@ -146,7 +146,7 @@ proxies:
   server: ava.game.naver.com
   port: 443
   type: trojan
-  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
   skip-cert-verify: true
   sni: ava.game.naver.com.vpn2.networkcloud.my.id
   network: ws
@@ -159,7 +159,7 @@ proxies:
   server: support.zoom.us
   port: 443
   type: trojan
-  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
   skip-cert-verify: true
   sni: support.zoom.us.nusa2.wahyuyaw.my.id
   network: ws
@@ -172,7 +172,7 @@ proxies:
   server: support.zoom.us
   port: 443
   type: trojan
-  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
   skip-cert-verify: true
   sni: support.zoom.us.vpn2.networkcloud.my.id
   network: ws
@@ -185,7 +185,7 @@ proxies:
   server: edu.ruangguru.com
   port: 443
   type: trojan
-  password: 42782cb6-6610-40f2-bcc9-7022acd06e42
+  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
   skip-cert-verify: true
   sni: vpn2.networkcloud.my.id
   network: ws
@@ -194,3 +194,16 @@ proxies:
     headers:
       Host: vpn2.networkcloud.my.id
   udp: true 
+- name: SGVIP16
+  server: ir.huya.com
+  port: 443
+  type: trojan
+  password: 9d8763aa-5481-4679-be5c-154cf2a0d6a2
+  skip-cert-verify: true
+  sni: vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vpn2.networkcloud.my.id
+  udp: true
