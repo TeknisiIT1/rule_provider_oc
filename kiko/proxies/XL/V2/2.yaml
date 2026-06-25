@@ -1,109 +1,57 @@
 proxies:
 - name: SGVIP1
-  server: 146.19.196.39
-  port: 443
-  type: trojan
-  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
-  network: ws
-  sni: ive-upload.instagram.com
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /trojan-ws
-  headers:
-    Host: vpn2.networkcloud.my.id
-- name: SGVIP2
-  server: 146.19.196.39
-  port: 443
-  type: trojan
-  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
-  network: ws
-  sni: graph.instagram.com
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /trojan-ws
-  headers:
-    Host: vpn2.networkcloud.my.id
-- name: SGVIP3
-  server: 146.19.196.39
-  port: 443
-  type: trojan
-  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
-  network: ws
-  sni: z-p15.www.isntagram.com
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /trojan-ws
-  headers:
-    Host: vpn2.networkcloud.my.id
-- name: SGVIP4
-  server: 146.19.196.39
-  port: 443
-  type: trojan
-  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
-  network: ws
-  sni: graph.facebook.com
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /trojan-ws
-  headers:
-    Host: vpn2.networkcloud.my.id
-- name: SGVIP5
-  server: 146.19.196.39
-  port: 443
-  type: trojan
-  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
-  network: ws
-  sni: opensource.fb.com
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /trojan-ws
-  headers:
-    Host: vpn2.networkcloud.my.id
-- name: SGVIP6
-  server: 146.19.196.39
-  port: 443
-  type: trojan
-  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
-  network: ws
-  sni: status.fb.com
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /trojan-ws
-  headers:
-    Host: vpn2.networkcloud.my.id
-- name: SGVIP7
-  server: 146.19.196.39
-  port: 443
-  type: trojan
-  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
-  network: ws
-  sni: edge-ig-mqtt-p4-shv-01-dub4.facebook.com
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /trojan-ws
-  headers:
-    Host: vpn2.networkcloud.my.id
-- name: SGVIP8
-  server: 146.19.196.39
+  server: support.zoom.us
   port: 443
   type: trojan
   password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
   skip-cert-verify: true
-  sni: live.iflix.com
+  sni: vpn2.networkcloud.my.id
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
       Host: vpn2.networkcloud.my.id
   udp: true
-- name: SGVIP9
+- name: SGVIP2
+  server: source.zoom.us
+  port: 443
+  type: trojan
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
+  skip-cert-verify: true
+  sni: support.zoom.us.vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: support.zoom.us.vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP3
+  server: support.zoom.us
+  port: 443
+  type: trojan
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
+  skip-cert-verify: true
+  sni: support.zoom.us.vpn2.networkcloud.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: support.zoom.us.vpn2.networkcloud.my.id
+  udp: true
+- name: SGVIP4
+  server: support.zoom.us
+  port: 443
+  type: trojan
+  password: 7315c7fe-1b67-4080-8fd1-d191bb52b3c9
+  skip-cert-verify: true
+  sni: support.zoom.us.nusa2.wahyuyaw.my.id
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: support.zoom.us.nusa2.wahyuyaw.my.id
+  udp: true
+- name: SGVIP5
   server: 146.19.196.39
   port: 443
   type: trojan
@@ -116,7 +64,7 @@ proxies:
     headers:
       Host: vpn2.networkcloud.my.id
   udp: true
-- name: SGVIP10
+- name: SGVIP6
   server: 146.19.196.39
   port: 443
   type: trojan
