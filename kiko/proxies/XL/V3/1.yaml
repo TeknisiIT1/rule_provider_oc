@@ -25,7 +25,7 @@ proxies:
     headers:
       Host: support.zoom.us.dewa.renaisand.my.id
   udp: true
-- name: SGVIP5
+- name: SGVIP3
   server: 146.19.196.39
   port: 443
   type: trojan
@@ -38,7 +38,7 @@ proxies:
     headers:
       Host: dewa.renaisand.my.id
   udp: true
-- name: SGVIP6
+- name: SGVIP4
   server: 146.19.196.39
   port: 443
   type: trojan
