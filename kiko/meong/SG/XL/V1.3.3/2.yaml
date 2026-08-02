@@ -1,3 +1,4 @@
+
 rule-providers:
   Akrb:
     type: http
@@ -81,7 +82,7 @@ proxy-providers:
   Meong1:
     type: http
     path: "./rule_provider_oc/tree/main/kiko/proxies/XL/V3/1.yaml"
-    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/kiko/proxies/XL/V2/1.yaml
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/refs/heads/main/kiko/proxies/XL/V3/1.yaml
     health-check:
       enable: true
       url: http://www.gstatic.com/generate_204
@@ -89,7 +90,7 @@ proxy-providers:
   Meong2:
     type: http
     path: "./rule_provider_oc/tree/main/kiko/proxies/XL/V3/2.yaml"
-    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/kiko/proxies/XL/V2/2.yaml
+    url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/refs/heads/main/kiko/proxies/XL/V3/2.yaml
     health-check:
       enable: true
       url: http://www.gstatic.com/generate_204
