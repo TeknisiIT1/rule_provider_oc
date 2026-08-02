@@ -80,7 +80,7 @@ rule-providers:
 proxy-providers:
   Meong1:
     type: http
-    path: "./rule_provider_oc/main/kiko/proxies/XL/V2/1.yaml"
+    path: "./rule_provider_oc/tree/main/kiko/proxies/XL/V3/1.yaml"
     url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/kiko/proxies/XL/V2/1.yaml
     health-check:
       enable: true
@@ -88,7 +88,7 @@ proxy-providers:
       interval: 100
   Meong2:
     type: http
-    path: "./rule_provider_oc/main/kiko/proxies/XL/V2/2.yaml"
+    path: "./rule_provider_oc/tree/main/kiko/proxies/XL/V3/2.yaml"
     url: https://raw.githubusercontent.com/TeknisiIT1/rule_provider_oc/main/kiko/proxies/XL/V2/2.yaml
     health-check:
       enable: true
